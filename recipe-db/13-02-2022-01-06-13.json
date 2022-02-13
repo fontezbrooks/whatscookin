@@ -1,0 +1,825 @@
+{
+  "recipes": [
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 15,
+      "gaps": "no",
+      "lowFodmap": false,
+      "aggregateLikes": 19,
+      "spoonacularScore": 92.0,
+      "healthScore": 46.0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 399.76,
+      "extendedIngredients": [
+        {
+          "id": 1230,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "buttermilk.jpg",
+          "consistency": "solid",
+          "name": "buttermilk",
+          "nameClean": "buttermilk",
+          "original": "1/4 cup buttermilk",
+          "originalName": "buttermilk",
+          "amount": 0.25,
+          "unit": "cup",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.25,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 59.147,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1230,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "buttermilk.jpg",
+          "consistency": "solid",
+          "name": "buttermilk",
+          "nameClean": "buttermilk",
+          "original": "1 1/2 cups buttermilk",
+          "originalName": "buttermilk",
+          "amount": 1.5,
+          "unit": "cups",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 354.882,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 11135,
+          "aisle": "Produce",
+          "image": "cauliflower.jpg",
+          "consistency": "solid",
+          "name": "cauliflower",
+          "nameClean": "cauliflower",
+          "original": "2 heads of cauliflower",
+          "originalName": "cauliflower",
+          "amount": 2.0,
+          "unit": "heads",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "heads",
+              "unitLong": "heads"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "heads",
+              "unitLong": "heads"
+            }
+          }
+        },
+        {
+          "id": 11135,
+          "aisle": "Produce",
+          "image": "cauliflower.jpg",
+          "consistency": "solid",
+          "name": "cauliflower",
+          "nameClean": "cauliflower",
+          "original": "Cauliflower Mash",
+          "originalName": "Cauliflower Mash",
+          "amount": 6.0,
+          "unit": "servings",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            },
+            "metric": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            }
+          }
+        },
+        {
+          "id": 2031,
+          "aisle": "Spices and Seasonings",
+          "image": "chili-powder.jpg",
+          "consistency": "solid",
+          "name": "cayenne pepper",
+          "nameClean": "ground cayenne pepper",
+          "original": "1/2 teaspoon cayenne pepper",
+          "originalName": "cayenne pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 0.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 5006,
+          "aisle": "Meat",
+          "image": "whole-chicken.jpg",
+          "consistency": "solid",
+          "name": "chicken",
+          "nameClean": "whole chicken",
+          "original": "Chicken (Baked chicken recipe adapted from Epicurious.com)",
+          "originalName": "Chicken (Baked chicken recipe adapted from Epicurious.com)",
+          "amount": 6.0,
+          "unit": "servings",
+          "meta": [
+            "(Baked chicken recipe adapted from Epicurious.com)"
+          ],
+          "measures": {
+            "us": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            },
+            "metric": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            }
+          }
+        },
+        {
+          "id": 1002046,
+          "aisle": "Condiments",
+          "image": "dijon-mustard.jpg",
+          "consistency": "liquid",
+          "name": "dijon mustard",
+          "nameClean": "creole mustard",
+          "original": "3 tablespoons Dijon mustard",
+          "originalName": "Dijon mustard",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 3.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 3.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 1002024,
+          "aisle": "Spices and Seasonings",
+          "image": "dry-mustard.jpg",
+          "consistency": "solid",
+          "name": "dry mustard",
+          "nameClean": "mustard powder",
+          "original": "1 1/2 teaspoons dry mustard",
+          "originalName": "dry mustard",
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "meta": [
+            "dry"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 1.5,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 20081,
+          "aisle": "Baking",
+          "image": "flour.png",
+          "consistency": "solid",
+          "name": "flour",
+          "nameClean": "wheat flour",
+          "original": "6 tablespoons flour",
+          "originalName": "flour",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 6.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 6.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 11215,
+          "aisle": "Produce",
+          "image": "garlic.png",
+          "consistency": "solid",
+          "name": "garlic cloves",
+          "nameClean": "garlic",
+          "original": "2 garlic cloves, pressed",
+          "originalName": "garlic cloves, pressed",
+          "amount": 2.0,
+          "unit": "",
+          "meta": [
+            "pressed"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 9152,
+          "aisle": "Produce",
+          "image": "lemon-juice.jpg",
+          "consistency": "liquid",
+          "name": "lemon juice",
+          "nameClean": "lemon juice",
+          "original": "2 tablespoons fresh lemon juice",
+          "originalName": "fresh lemon juice",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "meta": [
+            "fresh"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "Tbsps",
+              "unitLong": "Tbsps"
+            }
+          }
+        },
+        {
+          "id": 9156,
+          "aisle": "Produce",
+          "image": "zest-lemon.jpg",
+          "consistency": "solid",
+          "name": "lemon peel",
+          "nameClean": "lemon peel",
+          "original": "2 teaspoons lemon peel",
+          "originalName": "lemon peel",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "tsps",
+              "unitLong": "teaspoons"
+            }
+          }
+        },
+        {
+          "id": 1179,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "sour-cream.jpg",
+          "consistency": "solid",
+          "name": "low fat sour cream",
+          "nameClean": "light sour cream",
+          "original": "1/4 cup low fat sour cream",
+          "originalName": "low fat sour cream",
+          "amount": 0.25,
+          "unit": "cup",
+          "meta": [
+            "sour",
+            "low fat"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.25,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 59.147,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 10018079,
+          "aisle": "Bakery/Bread;Ethnic Foods;Oil, Vinegar, Salad Dressing;Baking",
+          "image": "panko.jpg",
+          "consistency": "solid",
+          "name": "panko",
+          "nameClean": "panko",
+          "original": "1 1/2 cups whole wheat panko",
+          "originalName": "whole wheat panko",
+          "amount": 1.5,
+          "unit": "cups",
+          "meta": [
+            "whole wheat"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 354.882,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 2028,
+          "aisle": "Spices and Seasonings",
+          "image": "paprika.jpg",
+          "consistency": "solid",
+          "name": "paprika",
+          "nameClean": "paprika",
+          "original": "1 teaspoon Paprika",
+          "originalName": "Paprika",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        },
+        {
+          "id": 1033,
+          "aisle": "Cheese",
+          "image": "parmesan.jpg",
+          "consistency": "solid",
+          "name": "parmesan cheese",
+          "nameClean": "parmesan",
+          "original": "1/2 cup grated Parmesan cheese",
+          "originalName": "grated Parmesan cheese",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [
+            "grated"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 118.294,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1036,
+          "aisle": "Cheese",
+          "image": "ricotta.png",
+          "consistency": "solid",
+          "name": "ricotta",
+          "nameClean": "ricotta cheese",
+          "original": "1/4 cup low fat ricotta",
+          "originalName": "low fat ricotta",
+          "amount": 0.25,
+          "unit": "cup",
+          "meta": [
+            "low fat"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.25,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 59.147,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1102047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt-and-pepper.jpg",
+          "consistency": "solid",
+          "name": "salt and pepper",
+          "nameClean": "salt and pepper",
+          "original": "Salt and pepper",
+          "originalName": "Salt and pepper",
+          "amount": 6.0,
+          "unit": "servings",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            },
+            "metric": {
+              "amount": 6.0,
+              "unitShort": "servings",
+              "unitLong": "servings"
+            }
+          }
+        },
+        {
+          "id": 1055062,
+          "aisle": "Meat",
+          "image": "chicken-breasts.png",
+          "consistency": "solid",
+          "name": "skinless boneless chicken breast",
+          "nameClean": "boneless skinless chicken breast",
+          "original": "2 pounds boneless, skinless chicken breast",
+          "originalName": "boneless, skinless chicken breast",
+          "amount": 2.0,
+          "unit": "pounds",
+          "meta": [
+            "boneless",
+            "skinless"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "lb",
+              "unitLong": "pounds"
+            },
+            "metric": {
+              "amount": 907.185,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 2049,
+          "aisle": "Produce;Spices and Seasonings",
+          "image": "thyme.jpg",
+          "consistency": "solid",
+          "name": "thyme",
+          "nameClean": "thyme",
+          "original": "1 tablespoon minced thyme",
+          "originalName": "minced thyme",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "meta": [
+            "minced"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "Tbsp",
+              "unitLong": "Tbsp"
+            }
+          }
+        }
+      ],
+      "id": 633624,
+      "title": "Baked Fried Chicken With Cauliflower Mash",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.foodista.com/recipe/GPDLDNDC/baked-fried-chicken-with-cauliflower-mash",
+      "image": "https://spoonacular.com/recipeImages/633624-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Baked Fried Chicken With Cauliflower Mash could satisfy your Southern craving in approximately <b>45 minutes</b>. This recipe makes 6 servings with <b>669 calories</b>, <b>67g of protein</b>, and <b>30g of fat</b> each. For <b>$4.03 per serving</b>, this recipe <b>covers 42%</b> of your daily requirements of vitamins and minerals. Head to the store and pick up cayenne pepper, panko, cauliflower mash, and a few other things to make it today. To use up the lemon peel you could follow this main course with the <a href=\"https://spoonacular.com/recipes/lemon-syrup-cake-with-berries-and-lemon-curd-cream-189625\">Lemon Syrup Cake with Berries and Lemon-Curd Cream</a> as a dessert. A couple people made this recipe, and 19 would say it hit the spot. It works well as a main course. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%</b>. This score is awesome. Similar recipes include <a href=\"https://spoonacular.com/recipes/sticky-honey-sriracha-cauliflower-wings-baked-or-fried-841792\">Sticky Honey Sriracha Cauliflower \"wings\" (Baked or Fried)</a>, <a href=\"https://spoonacular.com/recipes/cauliflower-mash-293168\">Cauliflower Mash</a>, and <a href=\"https://spoonacular.com/recipes/cauliflower-mash-812035\">Cauliflower mash</a>.",
+      "cuisines": [
+        "Southern"
+      ],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [],
+      "occasions": [],
+      "instructions": "<ol><li>For marinade:</li><li>Fillet chicken breast in half to make thinner pieces, and cut in half again to make smaller pieces.</li><li>Whisk all marinade ingredients (except for the chicken) in large bowl.</li><li>Add chicken and coat in marinade.</li><li>Chill overnight for more intense flavor. But if you are short on time (which I usually am) it is ok to use right away as well.</li><li>For breading:</li><li>Preheat to 450F</li><li>Mix breading ingredients large bowl. Place wire rack on baking sheets. Remove chicken breast from bowl and place in coating mixture. Transfer to rack. Repeat with remaining chicken breasts.- Place chicken breasts on rack and spray with olive oil .</li><li>Bake chicken 20 minutes or until coating is browned and instant-read thermometer registers 155F.</li><li>For Cauliflower:</li><li>Cut up cauliflower in small pieces.</li><li>Place in large saut pan with about 1 cup of water (enough to cover the bottom of pan, plus a little extra to make sure it doesn't all evaporate)</li><li>Cook until tender.</li><li>Combine cauliflower with buttermilk, sour cream, ricotta and salt and pepper.</li><li>In batches, place in blender and puree until smooth. (if it is having a hard time blending, add either some chicken or vegetable stock, or even more buttermilk)</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "For marinade:Fillet chicken breast in half to make thinner pieces, and cut in half again to make smaller pieces.",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Whisk all marinade ingredients (except for the chicken) in large bowl.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404661,
+                  "name": "whisk",
+                  "localizedName": "whisk",
+                  "image": "whisk.png"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Add chicken and coat in marinade.Chill overnight for more intense flavor. But if you are short on time (which I usually am) it is ok to use right away as well.For breading:Preheat to 450F",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Mix breading ingredients large bowl.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Place wire rack on baking sheets.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                },
+                {
+                  "id": 405900,
+                  "name": "wire rack",
+                  "localizedName": "wire rack",
+                  "image": "wire-rack.jpg"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Remove chicken breast from bowl and place in coating mixture.",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Transfer to rack. Repeat with remaining chicken breasts.-",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Place chicken breasts on rack and spray with olive oil .",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        },
+        {
+          "name": "Bake chicken 20 minutes or until coating is browned and instant-read thermometer registers 155F.For Cauliflower",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Cut up cauliflower in small pieces.",
+              "ingredients": [
+                {
+                  "id": 11135,
+                  "name": "cauliflower",
+                  "localizedName": "cauliflower",
+                  "image": "cauliflower.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Place in large saut pan with about 1 cup of water (enough to cover the bottom of pan, plus a little extra to make sure it doesn't all evaporate)Cook until tender.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Combine cauliflower with buttermilk, sour cream, ricotta and salt and pepper.In batches, place in blender and puree until smooth. (if it is having a hard time blending, add either some chicken or vegetable stock, or even more buttermilk)",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 6615,
+                  "name": "vegetable stock",
+                  "localizedName": "vegetable stock",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 11135,
+                  "name": "cauliflower",
+                  "localizedName": "cauliflower",
+                  "image": "cauliflower.jpg"
+                },
+                {
+                  "id": 1230,
+                  "name": "buttermilk",
+                  "localizedName": "buttermilk",
+                  "image": "buttermilk.jpg"
+                },
+                {
+                  "id": 1056,
+                  "name": "sour cream",
+                  "localizedName": "sour cream",
+                  "image": "sour-cream.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 1036,
+                  "name": "ricotta cheese",
+                  "localizedName": "ricotta cheese",
+                  "image": "ricotta.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404726,
+                  "name": "blender",
+                  "localizedName": "blender",
+                  "image": "blender.png"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/baked-fried-chicken-with-cauliflower-mash-633624"
+    }
+  ]
+}

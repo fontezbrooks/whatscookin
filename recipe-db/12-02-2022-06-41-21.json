@@ -1,0 +1,531 @@
+{
+  "recipes": [
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "weightWatcherSmartPoints": 25,
+      "gaps": "no",
+      "lowFodmap": false,
+      "aggregateLikes": 10,
+      "spoonacularScore": 15.0,
+      "healthScore": 1.0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 110.76,
+      "extendedIngredients": [
+        {
+          "id": 10018192,
+          "aisle": "Sweet Snacks",
+          "image": "no.jpg",
+          "consistency": "solid",
+          "name": "cookie crumbs",
+          "nameClean": "cookie crumbs",
+          "original": "1-1 1/2 cups dry chocolate cake or cookie crumbs, depending on how much crust you like",
+          "originalName": "dry chocolate cake or cookie crumbs, depending on how much crust you like",
+          "amount": 1.0,
+          "unit": "cups",
+          "meta": [
+            "dry"
+          ],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "cup",
+              "unitLong": "cup"
+            },
+            "metric": {
+              "amount": 236.588,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1017,
+          "aisle": "Cheese",
+          "image": "cream-cheese.jpg",
+          "consistency": "solid",
+          "name": "cream cheese",
+          "nameClean": "cream cheese",
+          "original": "2 pounds cream cheese, at room temperature",
+          "originalName": "cream cheese, at room temperature",
+          "amount": 2.0,
+          "unit": "pounds",
+          "meta": [
+            "at room temperature"
+          ],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "lb",
+              "unitLong": "pounds"
+            },
+            "metric": {
+              "amount": 907.185,
+              "unitShort": "g",
+              "unitLong": "grams"
+            }
+          }
+        },
+        {
+          "id": 1123,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "egg.png",
+          "consistency": "solid",
+          "name": "eggs",
+          "nameClean": "egg",
+          "original": "2 eggs",
+          "originalName": "eggs",
+          "amount": 2.0,
+          "unit": "",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            },
+            "metric": {
+              "amount": 2.0,
+              "unitShort": "",
+              "unitLong": ""
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "solid",
+          "name": "granulated sugar",
+          "nameClean": "sugar",
+          "original": "1 1/2 cups granulated sugar",
+          "originalName": "granulated sugar",
+          "amount": 1.5,
+          "unit": "cups",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 354.882,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 18632,
+          "aisle": "Baking",
+          "image": "brownie-isolated.png",
+          "consistency": "solid",
+          "name": "mix of brownies",
+          "nameClean": "brownie mix",
+          "original": "@16 1/2- 3/4 inch brownies",
+          "originalName": "brownies",
+          "amount": 16.5,
+          "unit": "inch",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 16.5,
+              "unitShort": "inch",
+              "unitLong": "inches"
+            },
+            "metric": {
+              "amount": 16.5,
+              "unitShort": "inch",
+              "unitLong": "inches"
+            }
+          }
+        },
+        {
+          "id": 2047,
+          "aisle": "Spices and Seasonings",
+          "image": "salt.jpg",
+          "consistency": "solid",
+          "name": "salt",
+          "nameClean": "salt",
+          "original": "A pinch of salt",
+          "originalName": "A of salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "pinch",
+              "unitLong": "pinch"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "pinch",
+              "unitLong": "pinch"
+            }
+          }
+        },
+        {
+          "id": 19335,
+          "aisle": "Baking",
+          "image": "sugar-in-bowl.png",
+          "consistency": "solid",
+          "name": "sugar",
+          "nameClean": "sugar",
+          "original": "1/2 cup sugar (add another 1/4 to 1/2 cup if you like it sweet)",
+          "originalName": "sugar (add another 1/4 to 1/2 cup if you like it sweet)",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [
+            "sweet"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 118.294,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 1145,
+          "aisle": "Milk, Eggs, Other Dairy",
+          "image": "butter-sliced.jpg",
+          "consistency": "solid",
+          "name": "unsalted butter",
+          "nameClean": "unsalted butter",
+          "original": "1/2 cup unsalted butter",
+          "originalName": "unsalted butter",
+          "amount": 0.5,
+          "unit": "cup",
+          "meta": [
+            "unsalted"
+          ],
+          "measures": {
+            "us": {
+              "amount": 0.5,
+              "unitShort": "cups",
+              "unitLong": "cups"
+            },
+            "metric": {
+              "amount": 118.294,
+              "unitShort": "ml",
+              "unitLong": "milliliters"
+            }
+          }
+        },
+        {
+          "id": 2050,
+          "aisle": "Baking",
+          "image": "vanilla-extract.jpg",
+          "consistency": "liquid",
+          "name": "vanilla",
+          "nameClean": "vanilla extract",
+          "original": "1 teaspoon vanilla",
+          "originalName": "vanilla",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "meta": [],
+          "measures": {
+            "us": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unitShort": "tsp",
+              "unitLong": "teaspoon"
+            }
+          }
+        }
+      ],
+      "id": 636325,
+      "title": "Brownie Cheesecake",
+      "readyInMinutes": 45,
+      "servings": 12,
+      "sourceUrl": "http://www.foodista.com/recipe/DHPVY2XZ/brownie-cheesecake",
+      "image": "https://spoonacular.com/recipeImages/636325-556x370.jpg",
+      "imageType": "jpg",
+      "summary": "Brownie Cheesecake might be just the <b>American</b> recipe you are searching for. This recipe makes 12 servings with <b>524 calories</b>, <b>6g of protein</b>, and <b>37g of fat</b> each. For <b>$1.11 per serving</b>, this recipe <b>covers 5%</b> of your daily requirements of vitamins and minerals. Head to the store and pick up cookie crumbs, an of salt, butter, and a few other things to make it today. 10 people have made this recipe and would make it again. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 16%</b>. This score is rather bad. Try <a href=\"https://spoonacular.com/recipes/brownie-cheesecake-447421\">Brownie Cheesecake</a>, <a href=\"https://spoonacular.com/recipes/brownie-cheesecake-127653\">Brownie Cheesecake</a>, and <a href=\"https://spoonacular.com/recipes/brownie-cheesecake-131400\">Brownie Cheesecake</a> for similar recipes.",
+      "cuisines": [
+        "American"
+      ],
+      "dishTypes": [
+        "side dish"
+      ],
+      "diets": [],
+      "occasions": [],
+      "instructions": "<ol><li>Mix the crumbs, sugar and butter together in a large mixing bowl, until the crumbs clump together when gathered in your fist</li><li>Pat the crumbs in an even layer in the bottom of an 8 x 3 inch springform pan</li><li>Place the pan in a 325 degree oven and bake for 10 minutes, until the crust is firm.</li><li>Allow the crust to cool completely on a rack.</li><li>Wrap the pan with the crust twice with heavy duty aluminum foil</li><li>Place the sugar, then the cream cheese, vanilla and salt in the large bowl of a stand mixer. Mix on low speed, until the cream cheese is completely smooth. BTW, I use Philadelphia Cream Cheese as I find it the smoothest.</li><li>Add the eggs, one at a time, mixing them in completely after each addition.</li><li>Pour one third of the cream cheese mixture into the prepared pan. Add a third of the browinies, then pour in another third of the cream cheese mixture. Repeat with anothe third of the brownies, then pour on the remianign cream cheese mixture. Stick the rest of the brownies into the top of the cheesckae, pushing them down into the mixture slightly.</li><li>Place the preapred and filled pan in a larger pan, then pour in enough hot water to come up to half of the pan's height.</li><li>Bake at 325 degrees for about 1 1/4 to 1/2 hours, or until it is mostly set. Turn of the oven, then leave the cheesecake in the oven,placing  a large wooden spoon in the oven door, so that it remains slightly open. Allow the cheeecake to cool in the open oven for about an hour, then cool completley on a rack. When it's cool, wrap it very well, and cool in the refrigerator for several hours.</li><li>To unmold the cake, wipe the sides and bottom of the pan with a hot, damp towel. Run a thin metal spatula around the edge of the pan. Release the spring, then lift the cake still on the on the removable bottom from the sides of the pan. Flip the cake gently onto a cardboard round or flat platter, remove the bottom, then flip it over onto another cardboard round or flat serving platter.</li></ol>",
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Mix the crumbs, sugar and butter together in a large mixing bowl, until the crumbs clump together when gathered in your fist",
+              "ingredients": [
+                {
+                  "id": 1001,
+                  "name": "butter",
+                  "localizedName": "butter",
+                  "image": "butter-sliced.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405907,
+                  "name": "mixing bowl",
+                  "localizedName": "mixing bowl",
+                  "image": "mixing-bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Pat the crumbs in an even layer in the bottom of an 8 x 3 inch springform pan",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404650,
+                  "name": "springform pan",
+                  "localizedName": "springform pan",
+                  "image": "cake-pan.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Place the pan in a 325 degree oven and bake for 10 minutes, until the crust is firm.Allow the crust to cool completely on a rack.Wrap the pan with the crust twice with heavy duty aluminum foil",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "crust",
+                  "localizedName": "crust",
+                  "image": ""
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404765,
+                  "name": "aluminum foil",
+                  "localizedName": "aluminum foil",
+                  "image": "aluminum-foil.png"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "Place the sugar, then the cream cheese, vanilla and salt in the large bowl of a stand mixer.",
+              "ingredients": [
+                {
+                  "id": 1017,
+                  "name": "cream cheese",
+                  "localizedName": "cream cheese",
+                  "image": "cream-cheese.jpg"
+                },
+                {
+                  "id": 1052050,
+                  "name": "vanilla",
+                  "localizedName": "vanilla",
+                  "image": "vanilla.jpg"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404665,
+                  "name": "stand mixer",
+                  "localizedName": "stand mixer",
+                  "image": "stand-mixer.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Mix on low speed, until the cream cheese is completely smooth. BTW, I use Philadelphia Cream Cheese as I find it the smoothest.",
+              "ingredients": [
+                {
+                  "id": 1017,
+                  "name": "cream cheese",
+                  "localizedName": "cream cheese",
+                  "image": "cream-cheese.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Add the eggs, one at a time, mixing them in completely after each addition.",
+              "ingredients": [
+                {
+                  "id": 1123,
+                  "name": "egg",
+                  "localizedName": "egg",
+                  "image": "egg.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Pour one third of the cream cheese mixture into the prepared pan.",
+              "ingredients": [
+                {
+                  "id": 1017,
+                  "name": "cream cheese",
+                  "localizedName": "cream cheese",
+                  "image": "cream-cheese.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Add a third of the browinies, then pour in another third of the cream cheese mixture. Repeat with anothe third of the brownies, then pour on the remianign cream cheese mixture. Stick the rest of the brownies into the top of the cheesckae, pushing them down into the mixture slightly.",
+              "ingredients": [
+                {
+                  "id": 1017,
+                  "name": "cream cheese",
+                  "localizedName": "cream cheese",
+                  "image": "cream-cheese.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Place the preapred and filled pan in a larger pan, then pour in enough hot water to come up to half of the pan's height.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 10,
+              "step": "Bake at 325 degrees for about 1 1/4 to 1/2 hours, or until it is mostly set. Turn of the oven, then leave the cheesecake in the oven,placing  a large wooden spoon in the oven door, so that it remains slightly open. Allow the cheeecake to cool in the open oven for about an hour, then cool completley on a rack. When it's cool, wrap it very well, and cool in the refrigerator for several hours.To unmold the cake, wipe the sides and bottom of the pan with a hot, damp towel. Run a thin metal spatula around the edge of the pan. Release the spring, then lift the cake still on the on the removable bottom from the sides of the pan. Flip the cake gently onto a cardboard round or flat platter, remove the bottom, then flip it over onto another cardboard round or flat serving platter.",
+              "ingredients": [
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404732,
+                  "name": "wooden spoon",
+                  "localizedName": "wooden spoon",
+                  "image": "wooden-spoon.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404642,
+                  "name": "spatula",
+                  "localizedName": "spatula",
+                  "image": "spatula-or-turner.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 120,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "originalId": null,
+      "spoonacularSourceUrl": "https://spoonacular.com/brownie-cheesecake-636325"
+    }
+  ]
+}
