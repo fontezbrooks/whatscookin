@@ -29,4 +29,8 @@ public class RecipeController : ControllerBase
 
 		return recipe;
 	}
+
+	[HttpGet("random")]
+	public async Task<ActionResult<Recipe>> GetRandomRecipe() => 
+		await _recipeService.GetRandomRecipeAsync();
 }

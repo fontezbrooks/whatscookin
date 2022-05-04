@@ -1,3 +1,5 @@
+using System.Diagnostics;
+using System.Drawing;
 using Microsoft.Extensions.Options;
 using MongoDB.Bson;
 using MongoDB.Driver;
@@ -25,6 +27,14 @@ public class RecipeService
 
 	public async Task<List<Recipe>> GetAsync() =>
 		await _recipeCollection.Find(_ => true).ToListAsync();
+
+	public async Task<Recipe> GetRandomRecipeAsync()
+	{
+		var collections = await GetAsync();
+		var random = new Random();
+		var randomNumber = random.Next(0, collections.Count);
+		return collections[randomNumber];
+	}
 
 	public async Task<Recipe?> GetAsync(string id) =>
 		
