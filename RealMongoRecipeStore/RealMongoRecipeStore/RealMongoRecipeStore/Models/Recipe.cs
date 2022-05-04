@@ -29,6 +29,9 @@ public class Recipe
 	public int WeightWatcherSmartPoints { get; set; }
 	[BsonElement("gaps")]
 	public string Gaps { get; set; }  = null!;
+	[BsonElement("license")]
+	[System.Text.Json.Serialization.JsonIgnore] 
+	public string License { get; set; }  = null!;
 	[BsonElement("lowFodmap")]
 	public bool LowFodmap { get; set; }
 	[BsonElement("aggregateLikes")]
@@ -48,6 +51,12 @@ public class Recipe
 	public string Title { get; set; } = null!;
 	[BsonElement("readyInMinutes")]
 	public int ReadyInMinutes { get; set; }
+	[BsonElement("cookingMinutes")]
+	[System.Text.Json.Serialization.JsonIgnore]
+	public int CookingMinutes { get; set; }
+	[BsonElement("preparationMinutes")]
+	[System.Text.Json.Serialization.JsonIgnore] 
+	public int PreparationMinutes { get; set; }
 	[BsonElement("servings")]
 	public int Servings { get; set; }
 	[BsonElement("sourceUrl")]
