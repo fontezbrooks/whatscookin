@@ -3,15 +3,13 @@ using RealMongoRecipeStore.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddCors(options =>
+builder.Services.AddCors(opt =>
 {
-	options.AddDefaultPolicy(
-		policy =>
-		{
-			policy.WithOrigins("http://localhost:3000", "http://localhost:19006", "http://localhost:19002");
-		});
+	opt.AddPolicy("CorsPolicy", policy =>
+	{
+		policy.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin();
+	});
 });
-
 builder.Services.Configure<RecipeDatabaseSettings>(
 	builder.Configuration.GetSection("RecipeDatabase"));
 
@@ -28,8 +26,6 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-app.UseCors("CorsPolicy");
-
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -38,6 +34,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
 

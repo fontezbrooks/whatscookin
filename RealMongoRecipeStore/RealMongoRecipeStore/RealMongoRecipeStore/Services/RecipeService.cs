@@ -1,9 +1,5 @@
-using System.Diagnostics;
-using System.Drawing;
 using Microsoft.Extensions.Options;
-using MongoDB.Bson;
 using MongoDB.Driver;
-using MongoDB.Driver.Core.Configuration;
 using RealMongoRecipeStore.Models;
 
 namespace RealMongoRecipeStore.Services;
