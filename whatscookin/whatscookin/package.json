@@ -10,8 +10,14 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.6.2",
+    "@mui/material": "^5.6.4",
+    "dangerously-set-inner-html": "^2.0.1",
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
+    "html-react-parser": "^1.4.12",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
