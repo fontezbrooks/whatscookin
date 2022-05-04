@@ -1,0 +1,500 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 15,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 6,
+  "spoonacularScore": 66.0,
+  "healthScore": 18.0,
+  "pricePerServing": 266.94,
+  "extendedIngredients": [
+    {
+      "id": 6150,
+      "aisle": "Condiments",
+      "image": "barbecue-sauce.jpg",
+      "consistency": "solid",
+      "name": "bbq sauce",
+      "nameClean": "barbecue sauce",
+      "original": "1 cup BBQ Sauce",
+      "originalName": "BBQ Sauce",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 18079,
+      "aisle": "Pasta and Rice",
+      "image": "breadcrumbs.jpg",
+      "consistency": "solid",
+      "name": "breadcrumbs",
+      "nameClean": "breadcrumbs",
+      "original": "3/4 cup toasted breadcrumbs",
+      "originalName": "toasted breadcrumbs",
+      "amount": 0.75,
+      "unit": "cup",
+      "meta": [
+        "toasted"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.75,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 177.441,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 11124,
+      "aisle": "Produce",
+      "image": "sliced-carrot.png",
+      "consistency": "solid",
+      "name": "carrot",
+      "nameClean": "carrot",
+      "original": "1 Carrot, Shredded",
+      "originalName": "Carrot, Shredded",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [
+        "shredded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1123,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "egg.png",
+      "consistency": "solid",
+      "name": "egg",
+      "nameClean": "egg",
+      "original": "1 Egg",
+      "originalName": "Egg",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "1 clove garlic",
+      "originalName": "garlic",
+      "amount": 1.0,
+      "unit": "clove",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "clove",
+          "unitLong": "clove"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "clove",
+          "unitLong": "clove"
+        }
+      }
+    },
+    {
+      "id": 5662,
+      "aisle": "Meat",
+      "image": "meat-ground.jpg",
+      "consistency": "solid",
+      "name": "ground turkey",
+      "nameClean": "ground turkey",
+      "original": "1 pound of Ground Turkey",
+      "originalName": "Ground Turkey",
+      "amount": 1.0,
+      "unit": "pound",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "lb",
+          "unitLong": "pound"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 1077,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "milk.png",
+      "consistency": "liquid",
+      "name": "milk",
+      "nameClean": "milk",
+      "original": "1 cup milk",
+      "originalName": "milk",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "solid",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1 cup onion, finely diced",
+      "originalName": "onion, finely diced",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [
+        "diced",
+        "finely"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1002030,
+      "aisle": "Spices and Seasonings",
+      "image": "pepper.jpg",
+      "consistency": "solid",
+      "name": "pepper",
+      "nameClean": "black pepper",
+      "original": "1/4 teaspoon Pepper",
+      "originalName": "Pepper",
+      "amount": 0.25,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "solid",
+      "name": "salt",
+      "nameClean": "table salt",
+      "original": "salt to taste",
+      "originalName": "salt to taste",
+      "amount": 4.0,
+      "unit": "servings",
+      "meta": [
+        "to taste"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 4.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 1001009,
+      "aisle": "Cheese",
+      "image": "shredded-cheddar.jpg",
+      "consistency": "solid",
+      "name": "shredded cheddar",
+      "nameClean": "shredded cheddar cheese",
+      "original": "1/2 cup of Shredded Cheddar",
+      "originalName": "Shredded Cheddar",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "shredded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 6971,
+      "aisle": "Condiments",
+      "image": "dark-sauce.jpg",
+      "consistency": "liquid",
+      "name": "worcestershire",
+      "nameClean": "worcestershire sauce",
+      "original": "1 teaspoon of Worcestershire",
+      "originalName": "Worcestershire",
+      "amount": 1.0,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    }
+  ],
+  "id": 637690,
+  "title": "Cheesy Turkey Meatballs",
+  "readyInMinutes": 45,
+  "servings": 4,
+  "sourceUrl": "http://www.foodista.com/recipe/YSNQGX56/cheesy-turkey-meatballs",
+  "image": "https://spoonacular.com/recipeImages/637690-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Cheesy Turkey Meatballs might be just the main course you are searching for. This recipe makes 4 servings with <b>465 calories</b>, <b>37g of protein</b>, and <b>12g of fat</b> each. For <b>$2.67 per serving</b>, this recipe <b>covers 25%</b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Not a lot of people made this recipe, and 6 would say it hit the spot. Head to the store and pick up egg, breadcrumbs, worcestershire, and a few other things to make it today. To use up the egg you could follow this main course with the <a href=\"https://spoonacular.com/recipes/rose-levy-beranbaums-chocolate-tomato-cake-with-mystery-ganache-27408\">Rose Levy Beranbaum's Chocolate Tomato Cake with Mystery Ganache</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 68%</b>. This score is pretty good. Try <a href=\"https://spoonacular.com/recipes/cheesy-turkey-meatballs-543207\">Cheesy Turkey Meatballs</a>, <a href=\"https://spoonacular.com/recipes/cheesy-pizza-turkey-meatballs-539282\">Cheesy Pizza Turkey Meatballs</a>, and <a href=\"https://spoonacular.com/recipes/one-pot-cheesy-tortellini-and-meatballs-717281\">One Pot Cheesy Tortellini and Meatballs</a> for similar recipes.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [],
+  "occasions": [],
+  "instructions": "<ol><li>Add together in a large bowl your turkey, breadcrumbs, egg, salt, Worcestershire, milk, carrot, onion, cheese, garlic and pepper.</li><li>Mix it together well.  I actually use my hands to mix it together (after a good washing of course).  Its just easier and youre going to need to get dirty anyway to make the meatballs.  Once youve mixed it up good, grab small handfuls of your meat mixture, roll them into balls.</li><li>Heat up about a tablespoon of oil in a large skillet on medium high heat.  When the oil is heated up, drop your balls into the pan.</li><li>Cook for about 5 to 10 minutes, flipping to all sides, until they are cooked through.  Once they are cooked up, drain any leftover oil and add in your bbq sauce.</li><li>Heat and serve.</li></ol>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Add together in a large bowl your turkey, breadcrumbs, egg, salt, Worcestershire, milk, carrot, onion, cheese, garlic and pepper.",
+          "ingredients": [
+            {
+              "id": 6971,
+              "name": "worcestershire sauce",
+              "localizedName": "worcestershire sauce",
+              "image": "dark-sauce.jpg"
+            },
+            {
+              "id": 18079,
+              "name": "breadcrumbs",
+              "localizedName": "breadcrumbs",
+              "image": "breadcrumbs.jpg"
+            },
+            {
+              "id": 11124,
+              "name": "carrot",
+              "localizedName": "carrot",
+              "image": "sliced-carrot.png"
+            },
+            {
+              "id": 1041009,
+              "name": "cheese",
+              "localizedName": "cheese",
+              "image": "cheddar-cheese.png"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 1002030,
+              "name": "pepper",
+              "localizedName": "pepper",
+              "image": "pepper.jpg"
+            },
+            {
+              "id": 5165,
+              "name": "whole turkey",
+              "localizedName": "whole turkey",
+              "image": "turkey-raw-whole.jpg"
+            },
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            },
+            {
+              "id": 1077,
+              "name": "milk",
+              "localizedName": "milk",
+              "image": "milk.png"
+            },
+            {
+              "id": 2047,
+              "name": "salt",
+              "localizedName": "salt",
+              "image": "salt.jpg"
+            },
+            {
+              "id": 1123,
+              "name": "egg",
+              "localizedName": "egg",
+              "image": "egg.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Mix it together well.  I actually use my hands to mix it together (after a good washing of course).  Its just easier and youre going to need to get dirty anyway to make the meatballs.  Once youve mixed it up good, grab small handfuls of your meat mixture, roll them into balls.",
+          "ingredients": [
+            {
+              "id": 10110219,
+              "name": "meatballs",
+              "localizedName": "meatballs",
+              "image": "meatballs.png"
+            },
+            {
+              "id": 1065062,
+              "name": "meat",
+              "localizedName": "meat",
+              "image": "whole-chicken.jpg"
+            },
+            {
+              "id": 0,
+              "name": "roll",
+              "localizedName": "roll",
+              "image": "dinner-yeast-rolls.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "Heat up about a tablespoon of oil in a large skillet on medium high heat.  When the oil is heated up, drop your balls into the pan.Cook for about 5 to 10 minutes, flipping to all sides, until they are cooked through.  Once they are cooked up, drain any leftover oil and add in your bbq sauce.",
+          "ingredients": [
+            {
+              "id": 6150,
+              "name": "barbecue sauce",
+              "localizedName": "barbecue sauce",
+              "image": "barbecue-sauce.jpg"
+            },
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Heat and serve.",
+          "ingredients": [],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/cheesy-turkey-meatballs-637690"
+}

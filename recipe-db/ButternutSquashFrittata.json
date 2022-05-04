@@ -1,0 +1,302 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": false,
+  "veryHealthy": true,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 2,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 18,
+  "spoonacularScore": 97.0,
+  "healthScore": 100.0,
+  "pricePerServing": 340.39,
+  "extendedIngredients": [
+    {
+      "id": 11485,
+      "aisle": "Produce",
+      "image": "butternut-squash.jpg",
+      "consistency": "solid",
+      "name": "butternut squash",
+      "nameClean": "butternut squash",
+      "original": "1 large butternut squash, peeled, seeded, thinly sliced (with a mandoline)",
+      "originalName": "butternut squash, peeled, seeded, thinly sliced (with a mandoline)",
+      "amount": 1.0,
+      "unit": "large",
+      "meta": [
+        "with a mandoline)",
+        "peeled",
+        "seeded",
+        "thinly sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "large",
+          "unitLong": "large"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "large",
+          "unitLong": "large"
+        }
+      }
+    },
+    {
+      "id": 1159,
+      "aisle": "Cheese",
+      "image": "goat-cheese.jpg",
+      "consistency": "solid",
+      "name": "goat cheese",
+      "nameClean": "goat cheese",
+      "original": "1/2 oz goat cheese",
+      "originalName": "goat cheese",
+      "amount": 0.5,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 14.175,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 1226,
+      "aisle": "Health Foods;Baking;Milk, Eggs, Other Dairy",
+      "image": "liquid-egg-substitute.jpg",
+      "consistency": "solid",
+      "name": "liquid egg substitute",
+      "nameClean": "egg substitute",
+      "original": "1/2 cup liquid egg substitute",
+      "originalName": "liquid egg substitute",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1085,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "milk.jpg",
+      "consistency": "liquid",
+      "name": "non-fat milk",
+      "nameClean": "fat free milk",
+      "original": "2 tbsp. non-fat milk",
+      "originalName": "non-fat milk",
+      "amount": 2.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 10211821,
+      "aisle": "Produce",
+      "image": "bell-pepper-orange.png",
+      "consistency": "solid",
+      "name": "bell pepper",
+      "nameClean": "bell pepper",
+      "original": "Pepper to taste",
+      "originalName": "Pepper to taste",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [
+        "to taste"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    }
+  ],
+  "id": 636589,
+  "title": "Butternut Squash Frittata",
+  "readyInMinutes": 45,
+  "servings": 1,
+  "sourceUrl": "http://www.foodista.com/recipe/XQXFKGHT/butternut-squash-frittata",
+  "image": "https://spoonacular.com/recipeImages/636589-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Butternut Squash Frittatan is a <b>gluten free</b> main course. One serving contains <b>446 calories</b>, <b>24g of protein</b>, and <b>4g of fat</b>. For <b>$3.03 per serving</b>, this recipe <b>covers 50%</b> of your daily requirements of vitamins and minerals. 18 people were impressed by this recipe. If you have butternut squash, pepper, liquid egg substitute, and a few other ingredients on hand, you can make it. To use up the liquid egg substitute you could follow this main course with the <a href=\"https://spoonacular.com/recipes/blueberry-cake-51430\">Blueberry Cake</a> as a dessert. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 98%</b>. This score is excellent. Try <a href=\"https://spoonacular.com/recipes/butternut-squash-frittata-750335\">Butternut Squash Frittata</a>, <a href=\"https://spoonacular.com/recipes/sausage-and-butternut-squash-frittata-563285\">Sausage and Butternut Squash Frittata</a>, and <a href=\"https://spoonacular.com/recipes/butternut-squash-and-quinoa-frittata-521598\">Butternut Squash and Quinoa Frittata</a> for similar recipes.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free"
+  ],
+  "occasions": [],
+  "instructions": "<ol><li>Preheat oven to 350</li><li>Spray a 10 oz oven safe dish with cooking spray</li><li>Add your butternut squash</li><li>In a measuring cup add your eggs and milk. Mix until combined. Pour over butternut squash.</li><li>Sprinkle with pepper and top with cheese.</li><li>Bake in oven for 30-35 minutes, until middle is slightly firm</li><li>Let it cool for a few minutes</li></ol>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Preheat oven to 350Spray a 10 oz oven safe dish with cooking spray",
+          "ingredients": [
+            {
+              "id": 4679,
+              "name": "cooking spray",
+              "localizedName": "cooking spray",
+              "image": "cooking-spray.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Add your butternut squash",
+          "ingredients": [
+            {
+              "id": 11485,
+              "name": "butternut squash",
+              "localizedName": "butternut squash",
+              "image": "butternut-squash.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "In a measuring cup add your eggs and milk.",
+          "ingredients": [
+            {
+              "id": 1123,
+              "name": "egg",
+              "localizedName": "egg",
+              "image": "egg.png"
+            },
+            {
+              "id": 1077,
+              "name": "milk",
+              "localizedName": "milk",
+              "image": "milk.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404766,
+              "name": "measuring cup",
+              "localizedName": "measuring cup",
+              "image": "measuring-cup.jpg"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "step": "Mix until combined.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Pour over butternut squash.",
+          "ingredients": [
+            {
+              "id": 11485,
+              "name": "butternut squash",
+              "localizedName": "butternut squash",
+              "image": "butternut-squash.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Sprinkle with pepper and top with cheese.",
+          "ingredients": [
+            {
+              "id": 1041009,
+              "name": "cheese",
+              "localizedName": "cheese",
+              "image": "cheddar-cheese.png"
+            },
+            {
+              "id": 1002030,
+              "name": "pepper",
+              "localizedName": "pepper",
+              "image": "pepper.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Bake in oven for 30-35 minutes, until middle is slightly firm",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 35,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 8,
+          "step": "Let it cool for a few minutes",
+          "ingredients": [],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/butternut-squash-frittata-636589"
+}

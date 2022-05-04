@@ -1,0 +1,809 @@
+{
+  "vegetarian": true,
+  "vegan": true,
+  "glutenFree": false,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 19,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 11,
+  "spoonacularScore": 75.0,
+  "healthScore": 26.0,
+  "pricePerServing": 380.23,
+  "extendedIngredients": [
+    {
+      "id": 4582,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vegetable-oil.jpg",
+      "consistency": "liquid",
+      "name": "canola oil",
+      "nameClean": "cooking oil",
+      "original": "2 tablespoons Organic Canola oil",
+      "originalName": "Organic Canola oil",
+      "amount": 2.0,
+      "unit": "tablespoons",
+      "meta": [
+        "organic"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 20133,
+      "aisle": "Pasta and Rice;Gluten Free;Ethnic Foods",
+      "image": "dried-rice-noodles.jpg",
+      "consistency": "solid",
+      "name": "rice noodles",
+      "nameClean": "rice vermicelli",
+      "original": "1 ¼ cup (½ lb) fresh wide rice noodles [or, ¼ lb. + ¼ lb. Yam-cake, or Shirataki noodles]",
+      "originalName": "¼ cup fresh wide rice noodles [or, ¼ lb. + ¼ lb. Yam-cake, or Shirataki noodles]",
+      "amount": 0.5,
+      "unit": "lb",
+      "meta": [
+        "fresh"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 226.796,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11477,
+      "aisle": "Produce",
+      "image": "zucchini.jpg",
+      "consistency": "solid",
+      "name": "zucchini",
+      "nameClean": "zucchini",
+      "original": "½ cup zucchini (1 medium), sliced",
+      "originalName": "zucchini (1 medium), sliced",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "sliced",
+        "(1 medium)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 10011209,
+      "aisle": "Produce",
+      "image": "japanese-eggplant.jpg",
+      "consistency": "solid",
+      "name": "japanese eggplant",
+      "nameClean": "japanese eggplant",
+      "original": "½ cup Japanese eggplant, sliced",
+      "originalName": "Japanese eggplant, sliced",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 10011090,
+      "aisle": "Produce",
+      "image": "broccoli.jpg",
+      "consistency": "solid",
+      "name": "broccoli florets",
+      "nameClean": "broccoli florets",
+      "original": "½ cup broccoli florets",
+      "originalName": "broccoli florets",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 11124,
+      "aisle": "Produce",
+      "image": "sliced-carrot.png",
+      "consistency": "solid",
+      "name": "carrot",
+      "nameClean": "carrot",
+      "original": "1 carrot, sliced",
+      "originalName": "carrot, sliced",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 16213,
+      "aisle": "Refrigerated;Produce;Ethnic Foods",
+      "image": "tofu.png",
+      "consistency": "solid",
+      "name": "tofu",
+      "nameClean": "tofu",
+      "original": "½ cup firm tofu, patted dry and cut into bit-sized pieces (or ½ cup seafood such as squid & shrimp, or chicken)",
+      "originalName": "firm tofu, patted dry and cut into bit-sized pieces (or ½ cup seafood such as squid & shrimp, or chicken)",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "dry",
+        "firm",
+        "cut into bit-sized pieces (or ½ cup seafood such as squid & shrimp, or chicken)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1022030,
+      "aisle": "Spices and Seasonings",
+      "image": "black-pepper.png",
+      "consistency": "solid",
+      "name": "peppercorns",
+      "nameClean": "black peppercorns",
+      "original": "2 tablespoons fresh peppercorns",
+      "originalName": "fresh peppercorns",
+      "amount": 2.0,
+      "unit": "tablespoons",
+      "meta": [
+        "fresh"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "2 tablespoons chopped garlic (2 cloves)",
+      "originalName": "tablespoons chopped garlic",
+      "amount": 2.0,
+      "unit": "cloves",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        }
+      }
+    },
+    {
+      "id": 11819,
+      "aisle": "Produce",
+      "image": "red-chili.jpg",
+      "consistency": "solid",
+      "name": "chilies",
+      "nameClean": "chili pepper",
+      "original": "1 tablespoon smashed small Thai chilies",
+      "originalName": "smashed small Thai chilies",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": [
+        "smashed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 11819,
+      "aisle": "Produce",
+      "image": "red-chili.jpg",
+      "consistency": "solid",
+      "name": "chili",
+      "nameClean": "chili pepper",
+      "original": "1 sliced orange chili (about 1 tablespoon)",
+      "originalName": "sliced orange chili (about",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": [
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 6150,
+      "aisle": "Condiments",
+      "image": "barbecue-sauce.jpg",
+      "consistency": "solid",
+      "name": "bbq sauce",
+      "nameClean": "barbecue sauce",
+      "original": "1 ½ tablespoons 0yster sauce",
+      "originalName": "0yster sauce",
+      "amount": 1.5,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 1.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 93767,
+      "aisle": "Health Foods;Condiments",
+      "image": "dark-sauce.jpg",
+      "consistency": "liquid",
+      "name": "braggs liquid aminos",
+      "nameClean": "braggs liquid aminos",
+      "original": "1 teaspoon Braggs Amino Acids",
+      "originalName": "Braggs Amino Acids",
+      "amount": 1.0,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 10116124,
+      "aisle": "Ethnic Foods",
+      "image": "soy-sauce.jpg",
+      "consistency": "liquid",
+      "name": "tamari",
+      "nameClean": "tamari",
+      "original": "1 ½ teaspoon Tamari",
+      "originalName": "Tamari",
+      "amount": 1.5,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 1.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 16124,
+      "aisle": "Ethnic Foods;Condiments",
+      "image": "soy-sauce.jpg",
+      "consistency": "liquid",
+      "name": "soy sauce",
+      "nameClean": "soy sauce",
+      "original": "1 tablespoon fish sauce or white soy sauce (or more to taste)",
+      "originalName": "fish sauce or white soy sauce (or more to taste)",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": [
+        "white",
+        "to taste",
+        "( )"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 93628,
+      "aisle": "Baking",
+      "image": "stevia.png",
+      "consistency": "solid",
+      "name": "stevia",
+      "nameClean": "stevia",
+      "original": "¼ teaspoon Stevia",
+      "originalName": "Stevia",
+      "amount": 0.25,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 14412,
+      "aisle": "Beverages",
+      "image": "water.png",
+      "consistency": "liquid",
+      "name": "water",
+      "nameClean": "water",
+      "original": "about 4 tablespoons water",
+      "originalName": "about water",
+      "amount": 4.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 4.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 2044,
+      "aisle": "Produce",
+      "image": "fresh-basil.jpg",
+      "consistency": "solid",
+      "name": "basil leaves",
+      "nameClean": "fresh basil",
+      "original": "½ cup packed holy basil leaves & flowers",
+      "originalName": "packed holy basil leaves & flowers",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "packed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 2053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vinegar-(white).jpg",
+      "consistency": "liquid",
+      "name": "vinegar",
+      "nameClean": "distilled white vinegar",
+      "original": "¼ teaspoon vinegar",
+      "originalName": "vinegar",
+      "amount": 0.25,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    }
+  ],
+  "id": 641671,
+  "title": "Drunken Noodles (Pad Kee Mao)",
+  "readyInMinutes": 45,
+  "servings": 2,
+  "sourceUrl": "https://www.foodista.com/recipe/3BKDFD6S/drunken-noodles-pad-kee-mao",
+  "summary": "Drunken Noodles (Pad Kee Mao) requires about <b>around 45 minutes</b> from start to finish. This recipe serves 2 and costs $3.8 per serving. This main course has <b>698 calories</b>, <b>15g of protein</b>, and <b>18g of fat</b> per serving. If you have orange chili, braggs amino acids, vinegar, and a few other ingredients on hand, you can make it. This recipe from Foodista has 11 fans. It is a <b>rather pricey</b> recipe for fans of Asian food. It is a good option if you're following a <b>dairy free, lacto ovo vegetarian, and vegan</b> diet. With a spoonacular <b>score of 74%</b>, this dish is pretty good. Similar recipes are <a href=\"https://spoonacular.com/recipes/drunken-noodles-pad-kee-mao-718039\">Drunken Noodles (Pad Kee Mao)</a>, <a href=\"https://spoonacular.com/recipes/pad-kee-mao-470929\">Pad Kee Mao</a>, and <a href=\"https://spoonacular.com/recipes/drunken-noodles-14834\">Drunken Noodles</a>.",
+  "cuisines": [
+    "Thai",
+    "Asian"
+  ],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "dairy free",
+    "lacto ovo vegetarian",
+    "vegan"
+  ],
+  "occasions": [],
+  "instructions": "Separate the noodles by peeling them apart one at a time. If also using Yam-cake noodles, rinse well. Set aside.\nPrepare your ingredients: Slice the vegetables. Crush the garlic and chilies, and set aside. Pick off the leaves & flowers of the basil, and set aside. Chop the large chili into rings.\nCombine the oyster sauce, Braggs, fish sauce, and Stevia in a small bowl and set aside.\nIf using tofu, pre-fry in a dry, non-stick skillet until browned. Set aside.\nAdd the oil to a Wok (this pan is preferred but not a necessity), and heat on medium until its dancing around.  (Heating oil on too high of heat will cause it to turn into Trans-fat which is not a good thing.)  Then add the garlic, chilies and green peppercorns. Keep stirring so it doesnt burn.\nWhen the garlic turns light brown, add the veggies & meat/seafood if adding. Keep stirring and cook until finished, about 3-5 minutes depending on the ingredients used.\nAdd the tofu (if adding), then the noodles. You may need to add a bit more water if the pan gets too dry. Dont add a lot, or the noodles will get mushy.\nAfter frying for a minute or two, add the sauce mixture.  Stir well to combine.\nAdd the basil & vinegar. Stir to mix. When the basil is wilted its done.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Separate the noodles by peeling them apart one at a time. If also using Yam-cake noodles, rinse well. Set aside.",
+          "ingredients": [
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 11601,
+              "name": "yam",
+              "localizedName": "yam",
+              "image": "sweet-potato.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 2,
+          "step": "Prepare your ingredients: Slice the vegetables. Crush the garlic and chilies, and set aside. Pick off the leaves & flowers of the basil, and set aside. Chop the large chili into rings.",
+          "ingredients": [
+            {
+              "id": 11583,
+              "name": "vegetable",
+              "localizedName": "vegetable",
+              "image": "mixed-vegetables.png"
+            },
+            {
+              "id": 11819,
+              "name": "chili pepper",
+              "localizedName": "chili pepper",
+              "image": "red-chili.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 2044,
+              "name": "basil",
+              "localizedName": "basil",
+              "image": "basil.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "Combine the oyster sauce, Braggs, fish sauce, and Stevia in a small bowl and set aside.",
+          "ingredients": [
+            {
+              "id": 6176,
+              "name": "oyster sauce",
+              "localizedName": "oyster sauce",
+              "image": "oyster-sauce.jpg"
+            },
+            {
+              "id": 6179,
+              "name": "fish sauce",
+              "localizedName": "fish sauce",
+              "image": "asian-fish-sauce.jpg"
+            },
+            {
+              "id": 93628,
+              "name": "stevia",
+              "localizedName": "stevia",
+              "image": "stevia.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "step": "If using tofu, pre-fry in a dry, non-stick skillet until browned. Set aside.",
+          "ingredients": [
+            {
+              "id": 16213,
+              "name": "tofu",
+              "localizedName": "tofu",
+              "image": "tofu.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "step": "Add the oil to a Wok (this pan is preferred but not a necessity), and heat on medium until its dancing around.  (",
+          "ingredients": [
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            },
+            {
+              "id": 404666,
+              "name": "wok",
+              "localizedName": "wok",
+              "image": "wok.png"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "step": "Heating oil on too high of heat will cause it to turn into Trans-fat which is not a good thing.)  Then add the garlic, chilies and green peppercorns. Keep stirring so it doesnt burn.",
+          "ingredients": [
+            {
+              "id": 93836,
+              "name": "green peppercorns",
+              "localizedName": "green peppercorns",
+              "image": "capers.jpg"
+            },
+            {
+              "id": 11819,
+              "name": "chili pepper",
+              "localizedName": "chili pepper",
+              "image": "red-chili.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "When the garlic turns light brown, add the veggies & meat/seafood if adding. Keep stirring and cook until finished, about 3-5 minutes depending on the ingredients used.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "seafood",
+              "localizedName": "seafood",
+              "image": "shrimp.png"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 1065062,
+              "name": "meat",
+              "localizedName": "meat",
+              "image": "whole-chicken.jpg"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 8,
+          "step": "Add the tofu (if adding), then the noodles. You may need to add a bit more water if the pan gets too dry. Dont add a lot, or the noodles will get mushy.",
+          "ingredients": [
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            },
+            {
+              "id": 16213,
+              "name": "tofu",
+              "localizedName": "tofu",
+              "image": "tofu.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "step": "After frying for a minute or two, add the sauce mixture.  Stir well to combine.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 10,
+          "step": "Add the basil & vinegar. Stir to mix. When the basil is wilted its done.",
+          "ingredients": [
+            {
+              "id": 2053,
+              "name": "vinegar",
+              "localizedName": "vinegar",
+              "image": "vinegar-(white).jpg"
+            },
+            {
+              "id": 2044,
+              "name": "basil",
+              "localizedName": "basil",
+              "image": "basil.jpg"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/drunken-noodles-pad-kee-mao-641671"
+}

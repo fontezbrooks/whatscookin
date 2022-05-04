@@ -1,0 +1,677 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 10,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 8,
+  "spoonacularScore": 86.0,
+  "healthScore": 53.0,
+  "pricePerServing": 514.49,
+  "extendedIngredients": [
+    {
+      "id": 15270,
+      "aisle": "Seafood",
+      "image": "shrimp.png",
+      "consistency": "solid",
+      "name": "shrimp",
+      "nameClean": "shrimp",
+      "original": "The Shrimp",
+      "originalName": "The Shrimp",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 15270,
+      "aisle": "Seafood",
+      "image": "shrimp.png",
+      "consistency": "solid",
+      "name": "shrimp",
+      "nameClean": "shrimp",
+      "original": "About 600gr of large tiger style shrimp (prawns/langoustine) peeled and cleaned",
+      "originalName": "About of large tiger style shrimp (prawns/langoustine) peeled and cleaned",
+      "amount": 600.0,
+      "unit": "gr",
+      "meta": [
+        "tiger style",
+        "cleaned",
+        "peeled",
+        "(prawns/langoustine)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.323,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 600.0,
+          "unitShort": "gr",
+          "unitLong": "grs"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic cloves",
+      "nameClean": "garlic",
+      "original": "2 x garlic cloves, crushed",
+      "originalName": "x garlic cloves, crushed",
+      "amount": 2.0,
+      "unit": "",
+      "meta": [
+        "crushed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "1 x tbsp olive oil",
+      "originalName": "x tbsp olive oil",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9160,
+      "aisle": "Produce",
+      "image": "lime-juice.png",
+      "consistency": "liquid",
+      "name": "juice of lime",
+      "nameClean": "lime juice",
+      "original": "Juice of 1 lime",
+      "originalName": "Juice of lime",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1102047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt-and-pepper.jpg",
+      "consistency": "solid",
+      "name": "salt and pepper",
+      "nameClean": "salt and pepper",
+      "original": "Salt and Pepper",
+      "originalName": "Salt and Pepper",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 21052,
+      "aisle": "Produce",
+      "image": "mixed-greens-or-mesclun.jpg",
+      "consistency": "solid",
+      "name": "salad mix",
+      "nameClean": "mesclun",
+      "original": "The Salad",
+      "originalName": "The Salad",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 10111251,
+      "aisle": "Produce",
+      "image": "romaine.jpg",
+      "consistency": "solid",
+      "name": "Cos lettuce",
+      "nameClean": "romaine",
+      "original": "The leaves of 1 medium Cos lettuce finely shredded",
+      "originalName": "The leaves of Cos lettuce finely shredded",
+      "amount": 1.0,
+      "unit": "medium",
+      "meta": [
+        "shredded",
+        "finely"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "medium",
+          "unitLong": "medium"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "medium",
+          "unitLong": "medium"
+        }
+      }
+    },
+    {
+      "id": 2044,
+      "aisle": "Produce",
+      "image": "fresh-basil.jpg",
+      "consistency": "solid",
+      "name": "basil leaves",
+      "nameClean": "fresh basil",
+      "original": "6/8 basil leaves chopped",
+      "originalName": "basil leaves chopped",
+      "amount": 0.75,
+      "unit": "",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.75,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 0.75,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11168,
+      "aisle": "Produce",
+      "image": "corn.png",
+      "consistency": "solid",
+      "name": "sweet corn",
+      "nameClean": "corn",
+      "original": "200gr sweet corn",
+      "originalName": "sweet corn",
+      "amount": 200.0,
+      "unit": "gr",
+      "meta": [
+        "sweet"
+      ],
+      "measures": {
+        "us": {
+          "amount": 7.055,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 200.0,
+          "unitShort": "gr",
+          "unitLong": "grs"
+        }
+      }
+    },
+    {
+      "id": 11291,
+      "aisle": "Produce",
+      "image": "spring-onions.jpg",
+      "consistency": "solid",
+      "name": "spring onions",
+      "nameClean": "spring onions",
+      "original": "3 x spring onions (scallions) chopped finely",
+      "originalName": "x spring onions (scallions) chopped finely",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [
+        "chopped",
+        "finely",
+        "(scallions)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9266,
+      "aisle": "Produce",
+      "image": "pineapple.jpg",
+      "consistency": "solid",
+      "name": "pineapple",
+      "nameClean": "pineapple",
+      "original": "600gr fresh pineapple cut into small cubes",
+      "originalName": "fresh pineapple cut into small cubes",
+      "amount": 600.0,
+      "unit": "gr",
+      "meta": [
+        "fresh",
+        "cut into small cubes"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.323,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 600.0,
+          "unitShort": "gr",
+          "unitLong": "grs"
+        }
+      }
+    },
+    {
+      "id": 9037,
+      "aisle": "Produce",
+      "image": "avocado.jpg",
+      "consistency": "solid",
+      "name": "avocados",
+      "nameClean": "avocado",
+      "original": "2 x avocados chopped into cubes",
+      "originalName": "x avocados chopped into cubes",
+      "amount": 2.0,
+      "unit": "",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9037,
+      "aisle": "Produce",
+      "image": "avocado.jpg",
+      "consistency": "solid",
+      "name": "avocado",
+      "nameClean": "avocado",
+      "original": "Avocado",
+      "originalName": "Avocado",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 43016,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "coleslaw-or-caesar-dressing.jpg",
+      "consistency": "solid",
+      "name": "slaw dressing",
+      "nameClean": "coleslaw dressing",
+      "original": "The Dressing",
+      "originalName": "The Dressing",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "3 x tbsp olive oil",
+      "originalName": "x tbsp olive oil",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 19296,
+      "aisle": "Nut butters, Jams, and Honey",
+      "image": "honey.png",
+      "consistency": "liquid",
+      "name": "honey",
+      "nameClean": "honey",
+      "original": "3 x tbsp honey",
+      "originalName": "x tbsp honey",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 9160,
+      "aisle": "Produce",
+      "image": "lime-juice.png",
+      "consistency": "liquid",
+      "name": "juice of lime",
+      "nameClean": "lime juice",
+      "original": "Juice and zest of 3 limes",
+      "originalName": "Juice and zest of limes",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    }
+  ],
+  "id": 659927,
+  "title": "Shrimp and Avocado Salad",
+  "readyInMinutes": 45,
+  "servings": 4,
+  "sourceUrl": "https://www.foodista.com/recipe/ZTNWCWQP/shrimp-and-avocado-salad",
+  "image": "https://spoonacular.com/recipeImages/659927-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Shrimp and Avocado Salad might be a good recipe to expand your main course collection. One serving contains <b>502 calories</b>, <b>36g of protein</b>, and <b>23g of fat</b>. This recipe serves 4. For <b>$5.14 per serving</b>, this recipe <b>covers 38%</b> of your daily requirements of vitamins and minerals. A mixture of basil leaves, avocados into cubes, the salad, and a handful of other ingredients are all it takes to make this recipe so tasty. 7 people have tried and liked this recipe. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. It is brought to you by Foodista. It is a good option if you're following a <b>gluten free, dairy free, and pescatarian</b> diet. With a spoonacular <b>score of 86%</b>, this dish is amazing. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/shrimp-corn-california-avocado-pasta-salad-a-ca-avocado-trip-584558\">Shrimp, Corn & Californian Avocado Pasta Salad & a CAn Avocado Trip</a>, <a href=\"https://spoonacular.com/recipes/shrimp-and-avocado-salad-770494\">Shrimp and Avocado Salad</a>, and <a href=\"https://spoonacular.com/recipes/shrimp-and-avocado-salad-245506\">Shrimp and Avocado Salad</a>.",
+  "cuisines": [],
+  "dishTypes": [
+    "side dish",
+    "lunch",
+    "salad",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free",
+    "pescatarian"
+  ],
+  "occasions": [],
+  "instructions": "1.Firstly, to cook the shrimp, heat the olive oil in a pan and once hot add the shrimp crushed garlic and chili flakes. It is important to get the oil nice and hot (not smoking, just before that point) your shrimp should sizzle when added to the pan. Check the back of the shrimp and when you see the colour change about half way up, turn them over. Do the same on the other side. This should only take a minute to two minutes maximum on both sides  otherwise you will get a rubbery result if you leave it too long. Squeeze over the lime juice  this too should bubble and reduce. Add a little salt and pepper, stir through, remove from the heat and set aside.\n2.Mix the dressing ingredients together, check for flavour, adjust if need be and set aside.\n3.Place all the salad ingredients in a bowl except the avocado and the salt and pepper. Prepare the avocado as you are about to serve otherwise it will turn brown. Once it is covered in the lime dressing, this will slow down the oxidization process and it wont go brown so easily.\n4.When you are ready to serve mix  of the avocado through the salad and add the dressing. Toss everything together. Taste to see if you need any salt and pepper. Place your shrimp on top of the salad with the rest of the avocado and sprinkle/pour any residue from the pan over your salad in which you cooked the shrimp. This is great flavour, so you dont want to lose it.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Firstly, to cook the shrimp, heat the olive oil in a pan and once hot add the shrimp crushed garlic and chili flakes. It is important to get the oil nice and hot (not smoking, just before that point) your shrimp should sizzle when added to the pan. Check the back of the shrimp and when you see the colour change about half way up, turn them over. Do the same on the other side. This should only take a minute to two minutes maximum on both sides  otherwise you will get a rubbery result if you leave it too long. Squeeze over the lime juice  this too should bubble and reduce.",
+          "ingredients": [
+            {
+              "id": 1032009,
+              "name": "red pepper flakes",
+              "localizedName": "red pepper flakes",
+              "image": "red-pepper-flakes.jpg"
+            },
+            {
+              "id": 9160,
+              "name": "lime juice",
+              "localizedName": "lime juice",
+              "image": "lime-juice.png"
+            },
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 15270,
+              "name": "shrimp",
+              "localizedName": "shrimp",
+              "image": "shrimp.png"
+            },
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ],
+          "length": {
+            "number": 2,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 2,
+          "step": "Add a little salt and pepper, stir through, remove from the heat and set aside.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "Mix the dressing ingredients together, check for flavour, adjust if need be and set aside.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Place all the salad ingredients in a bowl except the avocado and the salt and pepper. Prepare the avocado as you are about to serve otherwise it will turn brown. Once it is covered in the lime dressing, this will slow down the oxidization process and it wont go brown so easily.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 9037,
+              "name": "avocado",
+              "localizedName": "avocado",
+              "image": "avocado.jpg"
+            },
+            {
+              "id": 9159,
+              "name": "lime",
+              "localizedName": "lime",
+              "image": "lime.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "step": "When you are ready to serve mix  of the avocado through the salad and add the dressing. Toss everything together. Taste to see if you need any salt and pepper.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 9037,
+              "name": "avocado",
+              "localizedName": "avocado",
+              "image": "avocado.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Place your shrimp on top of the salad with the rest of the avocado and sprinkle/pour any residue from the pan over your salad in which you cooked the shrimp. This is great flavour, so you dont want to lose it.",
+          "ingredients": [
+            {
+              "id": 9037,
+              "name": "avocado",
+              "localizedName": "avocado",
+              "image": "avocado.jpg"
+            },
+            {
+              "id": 15270,
+              "name": "shrimp",
+              "localizedName": "shrimp",
+              "image": "shrimp.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/shrimp-and-avocado-salad-659927"
+}

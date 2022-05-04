@@ -1,0 +1,483 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 19,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 94,
+  "spoonacularScore": 40.0,
+  "healthScore": 4.0,
+  "pricePerServing": 271.68,
+  "extendedIngredients": [
+    {
+      "id": 11260,
+      "aisle": "Produce",
+      "image": "mushrooms-white.jpg",
+      "consistency": "solid",
+      "name": "fresh mushrooms",
+      "nameClean": "fresh mushrooms",
+      "original": "6 oz.sliced, fresh mushrooms",
+      "originalName": "sliced, fresh mushrooms",
+      "amount": 6.0,
+      "unit": "oz",
+      "meta": [
+        "fresh",
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 6.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 170.097,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 1055062,
+      "aisle": "Meat",
+      "image": "chicken-breasts.png",
+      "consistency": "solid",
+      "name": "skinless boneless chicken breast",
+      "nameClean": "boneless skinless chicken breast",
+      "original": "1 large boneless, skinless chicken breast",
+      "originalName": "boneless, skinless chicken breast",
+      "amount": 1.0,
+      "unit": "large",
+      "meta": [
+        "boneless",
+        "skinless"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "large",
+          "unitLong": "large"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "large",
+          "unitLong": "large"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "2 large cloves garlic, minced",
+      "originalName": "garlic, minced",
+      "amount": 2.0,
+      "unit": "large cloves",
+      "meta": [
+        "minced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "large cloves",
+          "unitLong": "large cloves"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "large cloves",
+          "unitLong": "large cloves"
+        }
+      }
+    },
+    {
+      "id": 1001,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "butter-sliced.jpg",
+      "consistency": "solid",
+      "name": "butter",
+      "nameClean": "butter",
+      "original": "2 Tbs butter",
+      "originalName": "butter",
+      "amount": 2.0,
+      "unit": "Tbs",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tbs"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tbs"
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "1 Tbs olive oil (plus additional to saute mushrooms)",
+      "originalName": "olive oil (plus additional to saute mushrooms)",
+      "amount": 1.0,
+      "unit": "Tbs",
+      "meta": [
+        "(plus additional to saute mushrooms)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        }
+      }
+    },
+    {
+      "id": 18376,
+      "aisle": "Bakery/Bread;Oil, Vinegar, Salad Dressing;Baking",
+      "image": "breadcrumbs.jpg",
+      "consistency": "solid",
+      "name": "seasoned breadcrumbs",
+      "nameClean": "seasoned breadcrumbs",
+      "original": "Seasoned Breadcrumbs/Coating Mix*",
+      "originalName": "Seasoned Breadcrumbs/Coating Mix",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 14057,
+      "aisle": "Alcoholic Beverages",
+      "image": "red-wine.jpg",
+      "consistency": "liquid",
+      "name": "marsala wine",
+      "nameClean": "marsala",
+      "original": "2 cups Marsala wine",
+      "originalName": "Marsala wine",
+      "amount": 2.0,
+      "unit": "cups",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 473.176,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1053,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "fluid-cream.jpg",
+      "consistency": "liquid",
+      "name": "heavy cream",
+      "nameClean": "cream",
+      "original": "1/4 cup heavy cream",
+      "originalName": "heavy cream",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 59.147,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 20421,
+      "aisle": "Pasta and Rice",
+      "image": "fusilli.jpg",
+      "consistency": "solid",
+      "name": "cooked pasta",
+      "nameClean": "cooked pasta",
+      "original": "Cooked pasta, if desired",
+      "originalName": "Cooked pasta, if desired",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [
+        "cooked"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    }
+  ],
+  "id": 664270,
+  "title": "Valentine's Chicken Marsala",
+  "readyInMinutes": 45,
+  "servings": 3,
+  "sourceUrl": "https://www.foodista.com/recipe/HVSZQZWG/valentine-s-chicken-marsala",
+  "image": "https://spoonacular.com/recipeImages/664270-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Valentine's Chicken Marsala might be a good recipe to expand your main course repertoire. This recipe serves 3 and costs $2.72 per serving. One serving contains <b>549 calories</b>, <b>13g of protein</b>, and <b>21g of fat</b>. If you have mushrooms, olive oil, marsala wine, and a few other ingredients on hand, you can make it. 94 people were impressed by this recipe. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. Overall, this recipe earns a <b>not so super spoonacular score of 38%</b>. <a href=\"https://spoonacular.com/recipes/buitoni-chicken-marsala-ravioli-with-mushroom-marsala-cream-sauce-549770\">Buitoni Chicken Marsala Ravioli with Mushroom Marsala Cream Sauce</a>, <a href=\"https://spoonacular.com/recipes/chicken-marsala-248083\">Chicken Marsala</a>, and <a href=\"https://spoonacular.com/recipes/chicken-marsala-74112\">Chicken Marsala</a> are very similar to this recipe.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [],
+  "occasions": [],
+  "instructions": "Slice mushrooms and pound chicken breast with a mallet between 2 sheets of wax paper to about 1/4 inch. Dredge breast in seasoned crumbs.\nHeat a heavy stainless or cast iron pan (don't use non-stick). Add the butter and the olive oil till butter melts and is bubbly. Add chicken breast and brown on both sides.\nRemove browned breast. Add additional olive oil and saute mushrooms and garlic.\nDeglaze pan with wine.\nAdd browned chicken breast back to pan. Bring to boil, reduce heat, cover and simmer for 30 min.\nRemove chicken from pan. Add cream and reduce sauce 50%.\nServe over cooked pasta, if desired.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Slice mushrooms and pound chicken breast with a mallet between 2 sheets of wax paper to about 1/4 inch. Dredge breast in seasoned crumbs.",
+          "ingredients": [
+            {
+              "id": 5062,
+              "name": "chicken breast",
+              "localizedName": "chicken breast",
+              "image": "chicken-breasts.png"
+            },
+            {
+              "id": 11260,
+              "name": "mushrooms",
+              "localizedName": "mushrooms",
+              "image": "mushrooms.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404739,
+              "name": "wax paper",
+              "localizedName": "wax paper",
+              "image": "wax-paper.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Heat a heavy stainless or cast iron pan (don't use non-stick).",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Add the butter and the olive oil till butter melts and is bubbly.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Add chicken breast and brown on both sides.",
+          "ingredients": [
+            {
+              "id": 5062,
+              "name": "chicken breast",
+              "localizedName": "chicken breast",
+              "image": "chicken-breasts.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Remove browned breast.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Add additional olive oil and saute mushrooms and garlic.",
+          "ingredients": [
+            {
+              "id": 11260,
+              "name": "mushrooms",
+              "localizedName": "mushrooms",
+              "image": "mushrooms.png"
+            },
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Deglaze pan with wine.",
+          "ingredients": [
+            {
+              "id": 14084,
+              "name": "wine",
+              "localizedName": "wine",
+              "image": "red-wine.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "step": "Add browned chicken breast back to pan. Bring to boil, reduce heat, cover and simmer for 30 min.",
+          "ingredients": [
+            {
+              "id": 5062,
+              "name": "chicken breast",
+              "localizedName": "chicken breast",
+              "image": "chicken-breasts.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ],
+          "length": {
+            "number": 30,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 9,
+          "step": "Remove chicken from pan.",
+          "ingredients": [
+            {
+              "id": 5006,
+              "name": "whole chicken",
+              "localizedName": "whole chicken",
+              "image": "whole-chicken.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "step": "Add cream and reduce sauce 50%.",
+          "ingredients": [
+            {
+              "id": 1053,
+              "name": "cream",
+              "localizedName": "cream",
+              "image": "fluid-cream.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 11,
+          "step": "Serve over cooked pasta, if desired.",
+          "ingredients": [
+            {
+              "id": 20421,
+              "name": "cooked pasta",
+              "localizedName": "cooked pasta",
+              "image": "fusilli.jpg"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/valentines-chicken-marsala-664270"
+}
