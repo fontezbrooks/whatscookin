@@ -1,0 +1,833 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": true,
+  "veryHealthy": true,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 13,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 6,
+  "spoonacularScore": 89.0,
+  "healthScore": 63.0,
+  "pricePerServing": 294.05,
+  "extendedIngredients": [
+    {
+      "id": 10013346,
+      "aisle": "Meat",
+      "image": "beef-brisket.png",
+      "consistency": "solid",
+      "name": "corned beef brisket",
+      "nameClean": "corned beef brisket",
+      "original": "2 pounds corned beef brisket",
+      "originalName": "corned beef brisket",
+      "amount": 2.0,
+      "unit": "pounds",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 907.185,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11124,
+      "aisle": "Produce",
+      "image": "sliced-carrot.png",
+      "consistency": "solid",
+      "name": "carrots",
+      "nameClean": "carrot",
+      "original": "1 pound carrots, roughly chopped",
+      "originalName": "carrots, roughly chopped",
+      "amount": 1.0,
+      "unit": "pound",
+      "meta": [
+        "roughly chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "lb",
+          "unitLong": "pound"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11298,
+      "aisle": "Produce",
+      "image": "parsnip.jpg",
+      "consistency": "solid",
+      "name": "parsnips",
+      "nameClean": "parsnip",
+      "original": "1 pound parsnips, roughly chopped",
+      "originalName": "parsnips, roughly chopped",
+      "amount": 1.0,
+      "unit": "pound",
+      "meta": [
+        "roughly chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "lb",
+          "unitLong": "pound"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11352,
+      "aisle": "Produce",
+      "image": "potatoes-yukon-gold.png",
+      "consistency": "solid",
+      "name": "potatoes",
+      "nameClean": "potato",
+      "original": "3 large potatoes, peeled and quartered",
+      "originalName": "potatoes, peeled and quartered",
+      "amount": 3.0,
+      "unit": "large",
+      "meta": [
+        "peeled",
+        "quartered"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "large",
+          "unitLong": "larges"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "large",
+          "unitLong": "larges"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "2 cloves garlic, minced",
+      "originalName": "garlic, minced",
+      "amount": 2.0,
+      "unit": "cloves",
+      "meta": [
+        "minced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        }
+      }
+    },
+    {
+      "id": 93619,
+      "aisle": "Alcoholic Beverages",
+      "image": "guinness.png",
+      "consistency": "liquid",
+      "name": "guinness",
+      "nameClean": "stout",
+      "original": "2 cups Guinness",
+      "originalName": "Guinness",
+      "amount": 2.0,
+      "unit": "cups",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 473.176,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 6008,
+      "aisle": "Canned and Jarred",
+      "image": "beef-broth.png",
+      "consistency": "liquid",
+      "name": "beef broth",
+      "nameClean": "beef broth",
+      "original": "2 cups beef broth",
+      "originalName": "beef broth",
+      "amount": 2.0,
+      "unit": "cups",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 473.176,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1012034,
+      "aisle": "Spices and Seasonings",
+      "image": "seasoning.png",
+      "consistency": "solid",
+      "name": "Spice Rub",
+      "nameClean": "dry seasoning rub",
+      "original": "2 tablespoons pickling spice",
+      "originalName": "pickling spice",
+      "amount": 2.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 19334,
+      "aisle": "Baking",
+      "image": "dark-brown-sugar.png",
+      "consistency": "solid",
+      "name": "brown sugar",
+      "nameClean": "golden brown sugar",
+      "original": "1 tablespoon brown sugar",
+      "originalName": "brown sugar",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 2004,
+      "aisle": "Spices and Seasonings",
+      "image": "bay-leaves.jpg",
+      "consistency": "solid",
+      "name": "bay leaf",
+      "nameClean": "bay leaves",
+      "original": "1 bay leaf",
+      "originalName": "bay leaf",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 99227,
+      "aisle": "Condiments",
+      "image": "regular-mustard.jpg",
+      "consistency": "liquid",
+      "name": "honey mustard",
+      "nameClean": "honey mustard",
+      "original": "3 spicy honey mustard",
+      "originalName": "spicy honey mustard",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    }
+  ],
+  "id": 646034,
+  "title": "Guinness Braised Corned Beef and Cabbage",
+  "readyInMinutes": 45,
+  "servings": 6,
+  "sourceUrl": "https://www.foodista.com/recipe/5NNYR6RD/guinness-braised-corned-beef-and-cabbage",
+  "image": "https://spoonacular.com/recipeImages/646034-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Guinness Braised Corned Beef and Cabbage requires approximately <b>approximately 45 minutes</b> from start to finish. This recipe serves 6. This main course has <b>541 calories</b>, <b>30g of protein</b>, and <b>23g of fat</b> per serving. For <b>$2.94 per serving</b>, this recipe <b>covers 39%</b> of your daily requirements of vitamins and minerals. 6 people have tried and liked this recipe. It can be enjoyed any time, but it is especially good for <b>st. patrick day</b>. This recipe from Foodista requires corned beef brisket, carrots, garlic, and brown sugar. This recipe is typical of European cuisine. It is a good option if you're following a <b>dairy free</b> diet. With a spoonacular <b>score of 89%</b>, this dish is great. <a href=\"https://spoonacular.com/recipes/guinness-corned-beef-and-cabbage-555600\">Guinness Corned Beef and Cabbage</a>, <a href=\"https://spoonacular.com/recipes/guinness-corned-beef-and-cabbage-431963\">Guinness Corned Beef and Cabbage</a>, and <a href=\"https://spoonacular.com/recipes/guinness-corned-beef-and-cabbage-527562\">guinness corned beef and cabbage</a> are very similar to this recipe.",
+  "cuisines": [
+    "European",
+    "Irish"
+  ],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "dairy free"
+  ],
+  "occasions": [
+    "father's day",
+    "st patricks day"
+  ],
+  "instructions": "Season both sides of the corned beef liberally with pepper. The corning of the beef makes the beef salty enough, so no need to add more.\nHeat 1 TBSP oil in a large, shallow oven-safe pot over medium-high heat. Add beef and sear each side for about 3 minutes, just to develop a nice brown crust. This will seal in the beef's juices.\nRemove beef to a plate. Pour guinness into the pot to deglaze. Scrape up any browned bits. Add beef broth, pickling spice, brown sugar, bay leaf, and minced garlic. Bring mixture up to a simmer.\nReturn the beef to the pot with any additional juices that have accumulated on the plate.\nCover the pot and place on the bottom rack in your oven. Bake for 2 1/2 - 3 hours, or until a fork can easily be inserted into the meat.\nBaste the meat with the surrounding juices every 30 minutes or so.\nAfter 2 hours, add carrots, parsnips, and potatoes to the pot. They will only take about 25-30 minutes of simmering to cook.\nRemove pot from the oven. Place beef on a cutting board and let it rest for 15 minutes before carving into thin slices (cut against the grain of the meat). Remove vegetables and arrange them on a serving platter. Cover with foil. Place the pot on the burner and bring sauce to a boil. Add cabbage and cook for about 7 minutes, until it has softened. Place the cabbage on the serving platter with the other vegetables.\nStrain the sauce in the pot and stir in 2 or 3 TBSP of spicy honey mustard until dissolved. Place in a small dish or gravy boat with a ladle and serve alongside the beef.\nAfter slicing the beef and arranging it on the serving platter, ladle the guinness mustard sauce over the top to rehydrate and glaze the beef and vegetables.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Season both sides of the corned beef liberally with pepper. The corning of the beef makes the beef salty enough, so no need to add more.",
+          "ingredients": [
+            {
+              "id": 13346,
+              "name": "corned beef",
+              "localizedName": "corned beef",
+              "image": "corned-beef.png"
+            },
+            {
+              "id": 1002030,
+              "name": "pepper",
+              "localizedName": "pepper",
+              "image": "pepper.jpg"
+            },
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 2,
+          "step": "Heat 1 TBSP oil in a large, shallow oven-safe pot over medium-high heat.",
+          "ingredients": [
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            },
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Add beef and sear each side for about 3 minutes, just to develop a nice brown crust. This will seal in the beef's juices.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "crust",
+              "localizedName": "crust",
+              "image": ""
+            },
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 3,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Remove beef to a plate.",
+          "ingredients": [
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Pour guinness into the pot to deglaze. Scrape up any browned bits.",
+          "ingredients": [
+            {
+              "id": 93619,
+              "name": "guinness",
+              "localizedName": "guinness",
+              "image": "guinness.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "step": "Add beef broth, pickling spice, brown sugar, bay leaf, and minced garlic. Bring mixture up to a simmer.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "minced garlic",
+              "localizedName": "minced garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 19334,
+              "name": "brown sugar",
+              "localizedName": "brown sugar",
+              "image": "dark-brown-sugar.png"
+            },
+            {
+              "id": 6008,
+              "name": "beef broth",
+              "localizedName": "beef broth",
+              "image": "beef-broth.png"
+            },
+            {
+              "id": 2004,
+              "name": "bay leaves",
+              "localizedName": "bay leaves",
+              "image": "bay-leaves.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Return the beef to the pot with any additional juices that have accumulated on the plate.",
+          "ingredients": [
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "step": "Cover the pot and place on the bottom rack in your oven.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            },
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "step": "Bake for 2 1/2 - 3 hours, or until a fork can easily be inserted into the meat.",
+          "ingredients": [
+            {
+              "id": 1065062,
+              "name": "meat",
+              "localizedName": "meat",
+              "image": "whole-chicken.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 180,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 10,
+          "step": "Baste the meat with the surrounding juices every 30 minutes or so.",
+          "ingredients": [
+            {
+              "id": 1065062,
+              "name": "meat",
+              "localizedName": "meat",
+              "image": "whole-chicken.jpg"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 30,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 11,
+          "step": "After 2 hours, add carrots, parsnips, and potatoes to the pot. They will only take about 25-30 minutes of simmering to cook.",
+          "ingredients": [
+            {
+              "id": 11298,
+              "name": "parsnip",
+              "localizedName": "parsnip",
+              "image": "parsnip.jpg"
+            },
+            {
+              "id": 11352,
+              "name": "potato",
+              "localizedName": "potato",
+              "image": "potatoes-yukon-gold.png"
+            },
+            {
+              "id": 11124,
+              "name": "carrot",
+              "localizedName": "carrot",
+              "image": "sliced-carrot.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ],
+          "length": {
+            "number": 150,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 12,
+          "step": "Remove pot from the oven.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            },
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "step": "Place beef on a cutting board and let it rest for 15 minutes before carving into thin slices (cut against the grain of the meat).",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "grains",
+              "localizedName": "grains",
+              "image": ""
+            },
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            },
+            {
+              "id": 1065062,
+              "name": "meat",
+              "localizedName": "meat",
+              "image": "whole-chicken.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404716,
+              "name": "cutting board",
+              "localizedName": "cutting board",
+              "image": "cutting-board.jpg"
+            }
+          ],
+          "length": {
+            "number": 15,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 14,
+          "step": "Remove vegetables and arrange them on a serving platter. Cover with foil.",
+          "ingredients": [
+            {
+              "id": 11583,
+              "name": "vegetable",
+              "localizedName": "vegetable",
+              "image": "mixed-vegetables.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404765,
+              "name": "aluminum foil",
+              "localizedName": "aluminum foil",
+              "image": "aluminum-foil.png"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "step": "Place the pot on the burner and bring sauce to a boil.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "step": "Add cabbage and cook for about 7 minutes, until it has softened.",
+          "ingredients": [
+            {
+              "id": 11109,
+              "name": "cabbage",
+              "localizedName": "cabbage",
+              "image": "cabbage.jpg"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 7,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 17,
+          "step": "Place the cabbage on the serving platter with the other vegetables.",
+          "ingredients": [
+            {
+              "id": 11583,
+              "name": "vegetable",
+              "localizedName": "vegetable",
+              "image": "mixed-vegetables.png"
+            },
+            {
+              "id": 11109,
+              "name": "cabbage",
+              "localizedName": "cabbage",
+              "image": "cabbage.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 18,
+          "step": "Strain the sauce in the pot and stir in 2 or 3 TBSP of spicy honey mustard until dissolved.",
+          "ingredients": [
+            {
+              "id": 99227,
+              "name": "honey mustard",
+              "localizedName": "honey mustard",
+              "image": "regular-mustard.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "step": "Place in a small dish or gravy boat with a ladle and serve alongside the beef.",
+          "ingredients": [
+            {
+              "id": 6997,
+              "name": "gravy",
+              "localizedName": "gravy",
+              "image": "gravy.jpg"
+            },
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 405912,
+              "name": "gravy boat",
+              "localizedName": "gravy boat",
+              "image": "gravy-boat.jpg"
+            },
+            {
+              "id": 404630,
+              "name": "ladle",
+              "localizedName": "ladle",
+              "image": "ladle.jpg"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "step": "After slicing the beef and arranging it on the serving platter, ladle the guinness mustard sauce over the top to rehydrate and glaze the beef and vegetables.",
+          "ingredients": [
+            {
+              "id": 11583,
+              "name": "vegetable",
+              "localizedName": "vegetable",
+              "image": "mixed-vegetables.png"
+            },
+            {
+              "id": 93619,
+              "name": "guinness",
+              "localizedName": "guinness",
+              "image": "guinness.png"
+            },
+            {
+              "id": 2046,
+              "name": "mustard",
+              "localizedName": "mustard",
+              "image": "regular-mustard.jpg"
+            },
+            {
+              "id": 0,
+              "name": "glaze",
+              "localizedName": "glaze",
+              "image": ""
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            },
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404630,
+              "name": "ladle",
+              "localizedName": "ladle",
+              "image": "ladle.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/guinness-braised-corned-beef-and-cabbage-646034"
+}

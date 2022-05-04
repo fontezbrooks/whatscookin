@@ -1,0 +1,503 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 5,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 14,
+  "spoonacularScore": 69.0,
+  "healthScore": 26.0,
+  "pricePerServing": 236.74,
+  "extendedIngredients": [
+    {
+      "id": 5064,
+      "aisle": "Meat",
+      "image": "cooked-chicken-breast.png",
+      "consistency": "solid",
+      "name": "cooked chicken breasts",
+      "nameClean": "cooked chicken breast",
+      "original": "3 cooked chicken breasts",
+      "originalName": "cooked chicken breasts",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [
+        "cooked"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 6194,
+      "aisle": "Canned and Jarred",
+      "image": "chicken-broth.png",
+      "consistency": "liquid",
+      "name": "chicken broth",
+      "nameClean": "chicken broth",
+      "original": "2 32 oz. boxes of chicken broth",
+      "originalName": "boxes of chicken broth",
+      "amount": 64.0,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 64.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 1.814,
+          "unitShort": "kilogram",
+          "unitLong": "kilograms"
+        }
+      }
+    },
+    {
+      "id": 11124,
+      "aisle": "Produce",
+      "image": "sliced-carrot.png",
+      "consistency": "solid",
+      "name": "carrots",
+      "nameClean": "carrot",
+      "original": "3 carrots, peeled and diced",
+      "originalName": "carrots, peeled and diced",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [
+        "diced",
+        "peeled"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 10111143,
+      "aisle": "Produce",
+      "image": "celery.jpg",
+      "consistency": "solid",
+      "name": "celery stalks",
+      "nameClean": "celery sticks",
+      "original": "3 celery stalks, diced",
+      "originalName": "celery stalks, diced",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [
+        "diced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 2049,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "thyme.jpg",
+      "consistency": "solid",
+      "name": "fresh thyme",
+      "nameClean": "thyme",
+      "original": "3-4 sprigs fresh thyme",
+      "originalName": "fresh thyme",
+      "amount": 3.0,
+      "unit": "sprigs",
+      "meta": [
+        "fresh"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "sprigs",
+          "unitLong": "sprigs"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "sprigs",
+          "unitLong": "sprigs"
+        }
+      }
+    },
+    {
+      "id": 1034053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "extra virgin olive oil",
+      "nameClean": "extra virgin olive oil",
+      "original": "1 teaspoon extra virgin olive oil",
+      "originalName": "extra virgin olive oil",
+      "amount": 1.0,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 10920420,
+      "aisle": "Pasta and Rice",
+      "image": "orzo.jpg",
+      "consistency": "solid",
+      "name": "orzo pasta",
+      "nameClean": "orzo",
+      "original": "2 cups orzo pasta",
+      "originalName": "orzo pasta",
+      "amount": 2.0,
+      "unit": "cups",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 473.176,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 2042,
+      "aisle": "Spices and Seasonings",
+      "image": "thyme.jpg",
+      "consistency": "solid",
+      "name": "ground thyme",
+      "nameClean": "dried thyme",
+      "original": "1 Tbs ground thyme",
+      "originalName": "ground thyme",
+      "amount": 1.0,
+      "unit": "Tbs",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "solid",
+      "name": "salt",
+      "nameClean": "table salt",
+      "original": "1 Tbs salt",
+      "originalName": "salt",
+      "amount": 1.0,
+      "unit": "Tbs",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        }
+      }
+    },
+    {
+      "id": 1002030,
+      "aisle": "Spices and Seasonings",
+      "image": "pepper.jpg",
+      "consistency": "solid",
+      "name": "pepper",
+      "nameClean": "black pepper",
+      "original": "1 Tbs pepper",
+      "originalName": "pepper",
+      "amount": 1.0,
+      "unit": "Tbs",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tb"
+        }
+      }
+    },
+    {
+      "id": 9150,
+      "aisle": "Produce",
+      "image": "lemon.png",
+      "consistency": "solid",
+      "name": "lemon",
+      "nameClean": "lemon",
+      "original": "1 large lemon",
+      "originalName": "lemon",
+      "amount": 1.0,
+      "unit": "large",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "large",
+          "unitLong": "large"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "large",
+          "unitLong": "large"
+        }
+      }
+    }
+  ],
+  "id": 1098350,
+  "title": "Light Greek Lemon Chicken Orzo Soup",
+  "readyInMinutes": 30,
+  "servings": 8,
+  "sourceUrl": "https://www.foodista.com/recipe/DPVTGWX6/light-greek-lemon-chicken-orzo-soup",
+  "image": "https://spoonacular.com/recipeImages/1098350-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "If you want to add more <b>Mediterranean</b> recipes to your recipe box, Light Greek Lemon Chicken Orzo Soup might be a recipe you should try. One portion of this dish contains approximately <b>26g of protein</b>, <b>4g of fat</b>, and a total of <b>278 calories</b>. This recipe serves 8 and costs $2.37 per serving. It works best as a main course, and is done in roughly <b>30 minutes</b>. This recipe is liked by 1 foodies and cooks. It is brought to you by Foodista. If you have juice of lemon, ground thyme, carrots, and a few other ingredients on hand, you can make it. It is perfect for <b>Autumn</b>. It is a good option if you're following a <b>dairy free</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 86%</b>. This score is amazing. Similar recipes include <a href=\"https://spoonacular.com/recipes/light-lemon-chicken-orzo-soup-694908\">Light Lemon Chicken Orzo Soup</a>, <a href=\"https://spoonacular.com/recipes/greek-lemon-soup-with-chicken-and-orzo-494677\">Greek Lemon Soup with Chicken and Orzo</a>, and <a href=\"https://spoonacular.com/recipes/greek-lemon-chicken-soup-with-orzo-997979\">Greek Lemon Chicken Soup with Orzo</a>.",
+  "cuisines": [
+    "Mediterranean",
+    "European",
+    "Greek"
+  ],
+  "dishTypes": [
+    "soup",
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "dairy free"
+  ],
+  "occasions": [
+    "fall",
+    "winter"
+  ],
+  "instructions": "<ol><li>In a large soup pot, heat olive oil on medium high.</li><li>Add carrots and celery and cook for 5 minutes on medium.</li><li>Add chicken broth.</li><li>Add ground thyme, salt and pepper.</li><li>Add cooked, diced chicken breasts and fresh thyme.</li><li>Bring to boil.</li><li>Add orzo and cook for 7-10 minutes until pasta is cooked.</li><li>Add the lemon zest and juice from 1 large lemon.</li><li>Serve with a slice of lemon.</li></ol>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "In a large soup pot, heat olive oil on medium high.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 0,
+              "name": "soup",
+              "localizedName": "soup",
+              "image": ""
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Add carrots and celery and cook for 5 minutes on medium.",
+          "ingredients": [
+            {
+              "id": 11124,
+              "name": "carrot",
+              "localizedName": "carrot",
+              "image": "sliced-carrot.png"
+            },
+            {
+              "id": 11143,
+              "name": "celery",
+              "localizedName": "celery",
+              "image": "celery.jpg"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 3,
+          "step": "Add chicken broth.",
+          "ingredients": [
+            {
+              "id": 6194,
+              "name": "chicken broth",
+              "localizedName": "chicken broth",
+              "image": "chicken-broth.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Add ground thyme, salt and pepper.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 1032042,
+              "name": "ground thyme",
+              "localizedName": "ground thyme",
+              "image": "thyme.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Add cooked, diced chicken breasts and fresh thyme.Bring to boil.",
+          "ingredients": [
+            {
+              "id": 5062,
+              "name": "chicken breast",
+              "localizedName": "chicken breast",
+              "image": "chicken-breasts.png"
+            },
+            {
+              "id": 1012049,
+              "name": "fresh thyme",
+              "localizedName": "fresh thyme",
+              "image": "thyme.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Add orzo and cook for 7-10 minutes until pasta is cooked.",
+          "ingredients": [
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 10920420,
+              "name": "orzo",
+              "localizedName": "orzo",
+              "image": "orzo.jpg"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 10,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 7,
+          "step": "Add the lemon zest and juice from 1 large lemon.",
+          "ingredients": [
+            {
+              "id": 9156,
+              "name": "lemon zest",
+              "localizedName": "lemon zest",
+              "image": "zest-lemon.jpg"
+            },
+            {
+              "id": 1019016,
+              "name": "juice",
+              "localizedName": "juice",
+              "image": "apple-juice.jpg"
+            },
+            {
+              "id": 9150,
+              "name": "lemon",
+              "localizedName": "lemon",
+              "image": "lemon.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 8,
+          "step": "Serve with a slice of lemon.",
+          "ingredients": [
+            {
+              "id": 9150,
+              "name": "lemon",
+              "localizedName": "lemon",
+              "image": "lemon.png"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/light-greek-lemon-chicken-orzo-soup-1098350"
+}

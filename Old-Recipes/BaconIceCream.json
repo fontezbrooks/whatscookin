@@ -1,0 +1,185 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 61,
+  "gaps": "no",
+  "lowFodmap": true,
+  "aggregateLikes": 9,
+  "spoonacularScore": 66.0,
+  "healthScore": 14.0,
+  "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+  "license": "CC BY 3.0",
+  "sourceName": "Foodista",
+  "pricePerServing": 406.09,
+  "extendedIngredients": [
+    {
+      "id": 10123,
+      "aisle": "Meat",
+      "image": "raw-bacon.png",
+      "consistency": "solid",
+      "name": "bacon",
+      "nameClean": "applewood smoked bacon",
+      "original": "1 pound bacon",
+      "originalName": "bacon",
+      "amount": 1.0,
+      "unit": "pound",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "lb",
+          "unitLong": "pound"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 19095,
+      "aisle": "Frozen",
+      "image": "vanilla-ice-cream.png",
+      "consistency": "solid",
+      "name": "ice cream",
+      "nameClean": "vanilla ice cream",
+      "original": "1 pint of Dulce de Leche Ice Cream, warmed just enough so you c",
+      "originalName": "Dulce de Leche Ice Cream, warmed just enough so you c",
+      "amount": 1.0,
+      "unit": "pint",
+      "meta": [
+        "warmed"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "pts",
+          "unitLong": "pint"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "pts",
+          "unitLong": "pint"
+        }
+      }
+    },
+    {
+      "id": 12142,
+      "aisle": "Nuts;Baking",
+      "image": "pecans.jpg",
+      "consistency": "solid",
+      "name": "pecans",
+      "nameClean": "pecans",
+      "original": "1/4 cup of chopped pecans",
+      "originalName": "chopped pecans",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 59.147,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    }
+  ],
+  "id": 633314,
+  "title": "Bacon Ice Cream",
+  "readyInMinutes": 45,
+  "servings": 2,
+  "sourceUrl": "http://www.foodista.com/recipe/G6ZNLSC3/bacon-ice-cream",
+  "image": "https://spoonacular.com/recipeImages/633314-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "One serving contains <b>1521 calories</b>, <b>38g of protein</b>, and <b>125g of fat</b>. For <b>$4.06 per serving</b>, this recipe <b>covers 27%</b> of your daily requirements of vitamins and minerals. It will be a hit at your <b>Summer</b> event. 9 people were impressed by this recipe. It is a good option if you're following a <b>gluten free, dairy free, and fodmap friendly</b> diet. Head to the store and pick up bacon, dulce de leche ice cream, pecans, and a few other things to make it today. From preparation to the plate, this recipe takes about <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 68%</b>. This score is pretty good. Try <a href=\"https://spoonacular.com/recipes/strawberry-cookies-and-cream-ice-cream-917912\">Strawberry Cookies and Cream Ice Cream</a>, <a href=\"https://spoonacular.com/recipes/avocado-ice-cream-913453\">Avocado Ice Cream</a>, and <a href=\"https://spoonacular.com/recipes/paleo-strawberry-ice-cream-912318\">Paleo Strawberry Ice Cream</a> for similar recipes.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free",
+    "fodmap friendly"
+  ],
+  "occasions": [
+    "summer"
+  ],
+  "instructions": "<ol><li>Mix bacon and nuts in bowl. Set aside a teaspoon of bacon and nuts for topping.</li><li>Mix chopped bacon and nuts into ice cream, then place back in freezer.</li><li>After Bacon Ice Cream is frozen, scoop into cup and top with bits of bacon and nuts. Enjoy!</li></ol>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Mix bacon and nuts in bowl. Set aside a teaspoon of bacon and nuts for topping.",
+          "ingredients": [
+            {
+              "id": 10123,
+              "name": "bacon",
+              "localizedName": "bacon",
+              "image": "raw-bacon.png"
+            },
+            {
+              "id": 12135,
+              "name": "nuts",
+              "localizedName": "nuts",
+              "image": "nuts-mixed.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Mix chopped bacon and nuts into ice cream, then place back in freezer.After Bacon Ice Cream is frozen, scoop into cup and top with bits of bacon and nuts. Enjoy!",
+          "ingredients": [
+            {
+              "id": 19095,
+              "name": "ice cream",
+              "localizedName": "ice cream",
+              "image": "vanilla-ice-cream.png"
+            },
+            {
+              "id": 10123,
+              "name": "bacon",
+              "localizedName": "bacon",
+              "image": "raw-bacon.png"
+            },
+            {
+              "id": 12135,
+              "name": "nuts",
+              "localizedName": "nuts",
+              "image": "nuts-mixed.jpg"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/bacon-ice-cream-633314"
+}

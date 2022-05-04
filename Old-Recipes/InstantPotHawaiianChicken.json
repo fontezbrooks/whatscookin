@@ -1,0 +1,253 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 13,
+  "gaps": "no",
+  "lowFodmap": false,
+  "preparationMinutes": 5,
+  "cookingMinutes": 13,
+  "aggregateLikes": 19,
+  "spoonacularScore": 73.0,
+  "healthScore": 15.0,
+  "pricePerServing": 235.34,
+  "extendedIngredients": [
+    {
+      "id": 6150,
+      "aisle": "Condiments",
+      "image": "barbecue-sauce.jpg",
+      "consistency": "solid",
+      "name": "barbecue sauce",
+      "nameClean": "barbecue sauce",
+      "original": "1 (16 oz) barbecue sauce",
+      "originalName": "barbecue sauce",
+      "amount": 16.0,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 16.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 5062,
+      "aisle": "Meat",
+      "image": "chicken-breasts.png",
+      "consistency": "solid",
+      "name": "chicken breasts",
+      "nameClean": "chicken breast",
+      "original": "3-4 chicken breasts",
+      "originalName": "chicken breasts",
+      "amount": 3.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1039354,
+      "aisle": "Canned and Jarred",
+      "image": "pineapple-with-can.png",
+      "consistency": "solid",
+      "name": "pineapple tidbits",
+      "nameClean": "pineapple tidbits",
+      "original": "1 (20 oz) Dole Pineapple Tidbits (drained)",
+      "originalName": "Dole Pineapple Tidbits (drained)",
+      "amount": 20.0,
+      "unit": "oz",
+      "meta": [
+        "drained",
+        "()"
+      ],
+      "measures": {
+        "us": {
+          "amount": 20.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 566.99,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    }
+  ],
+  "id": 982365,
+  "title": "Instant Pot Hawaiian Chicken",
+  "readyInMinutes": 18,
+  "servings": 4,
+  "sourceUrl": "https://www.pinkwhen.com/instant-pot-hawaiian-chicken-recipe/",
+  "image": "https://spoonacular.com/recipeImages/982365-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "If you want to add more <b>gluten free and dairy free</b> recipes to your repertoire, Instant Pot Hawaiian Chicken might be a recipe you should try. This recipe serves 4 and costs $1.6 per serving. This main course has <b>377 calories</b>, <b>20g of protein</b>, and <b>3g of fat</b> per serving. This recipe from Pink When has 19 fans. Head to the store and pick up chicken breasts, barbecue sauce, dole pineapple tidbits, and a few other things to make it today. To use up the pineapple tidbits you could follow this main course with the <a href=\"https://spoonacular.com/recipes/pineapple-yogurt-parfaits-516426\">Pineapple Yogurt Parfaits</a> as a dessert. From preparation to the plate, this recipe takes approximately <b>18 minutes</b>. Overall, this recipe earns a <b>pretty good spoonacular score of 78%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/instant-pot-hawaiian-chicken-854019\">Instant Pot Hawaiian Chicken</a>, <a href=\"https://spoonacular.com/recipes/one-pot-teriyaki-rice-with-chicken-vegetables-+-video-+instant-pot-872820\">One Pot Teriyaki Rice with Chicken & Vegetables + Video (+Instant Pot)</a>, and <a href=\"https://spoonacular.com/recipes/instant-pot-chicken-pot-pie-soup-916463\">Instant Pot Chicken Pot Pie Soup</a>.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free"
+  ],
+  "occasions": [],
+  "instructions": "First, place your trivet in the bottom of the Instant Pot and add about a cup of water (depending on the size of the Instant Pot) and a tablespoon of the pineapple juice.\nNext, mix together your Dole pineapple tidbits and the barbecue sauce. Cover the chicken breasts with the barbecue pineapple mixture, and then place onto the trivet.\nMake sure the lid is securely sealed and then place the Instant Pot on manual mode and cook with High pressure for about 13 minutes. Don't forget to place the steam valve over to \"sealing\".\nWhen time is up hit cancel and allow 5-10 minutes to naturally release pressure.\nRemove your chicken from the Instant Pot with tongs and serve over a bed of rice, or for a healthier version, over a bed of lettuce.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "First, place your trivet in the bottom of the Instant Pot and add about a cup of water (depending on the size of the Instant Pot) and a tablespoon of the pineapple juice.",
+          "ingredients": [
+            {
+              "id": 9273,
+              "name": "pineapple juice",
+              "localizedName": "pineapple juice",
+              "image": "pineapple-juice.jpg"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 414093,
+              "name": "instant pot",
+              "localizedName": "instant pot",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Next, mix together your Dole pineapple tidbits and the barbecue sauce. Cover the chicken breasts with the barbecue pineapple mixture, and then place onto the trivet.",
+          "ingredients": [
+            {
+              "id": 1039354,
+              "name": "pineapple tidbits",
+              "localizedName": "pineapple tidbits",
+              "image": "pineapple-with-can.png"
+            },
+            {
+              "id": 5062,
+              "name": "chicken breast",
+              "localizedName": "chicken breast",
+              "image": "chicken-breasts.png"
+            },
+            {
+              "id": 6150,
+              "name": "barbecue sauce",
+              "localizedName": "barbecue sauce",
+              "image": "barbecue-sauce.jpg"
+            },
+            {
+              "id": 9266,
+              "name": "pineapple",
+              "localizedName": "pineapple",
+              "image": "pineapple.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "Make sure the lid is securely sealed and then place the Instant Pot on manual mode and cook with High pressure for about 13 minutes. Don't forget to place the steam valve over to \"sealing\".",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 414093,
+              "name": "instant pot",
+              "localizedName": "instant pot",
+              "image": ""
+            }
+          ],
+          "length": {
+            "number": 13,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "When time is up hit cancel and allow 5-10 minutes to naturally release pressure.",
+          "ingredients": [],
+          "equipment": [],
+          "length": {
+            "number": 10,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 5,
+          "step": "Remove your chicken from the Instant Pot with tongs and serve over a bed of rice, or for a healthier version, over a bed of lettuce.",
+          "ingredients": [
+            {
+              "id": 5006,
+              "name": "whole chicken",
+              "localizedName": "whole chicken",
+              "image": "whole-chicken.jpg"
+            },
+            {
+              "id": 11252,
+              "name": "lettuce",
+              "localizedName": "lettuce",
+              "image": "iceberg-lettuce.jpg"
+            },
+            {
+              "id": 20444,
+              "name": "rice",
+              "localizedName": "rice",
+              "image": "uncooked-white-rice.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 414093,
+              "name": "instant pot",
+              "localizedName": "instant pot",
+              "image": ""
+            },
+            {
+              "id": 404641,
+              "name": "tongs",
+              "localizedName": "tongs",
+              "image": "tongs.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/instant-pot-hawaiian-chicken-982365"
+}
