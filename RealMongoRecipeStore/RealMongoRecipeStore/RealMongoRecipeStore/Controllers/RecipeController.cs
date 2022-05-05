@@ -30,7 +30,7 @@ public class RecipeController : ControllerBase
 		return recipe;
 	}
 
-	[HttpPost]
+	[HttpPost("user/favorite/{id:length(24)}")]
 	public async Task<IActionResult> UpdateUserDb(string id)
 	{
 		await _recipeService.AddRecipeToUserDbAsync(id);
@@ -38,7 +38,7 @@ public class RecipeController : ControllerBase
 		return CreatedAtAction(nameof(Get), id);
 	}
 
-	[HttpDelete("{id:length(24)}")]
+	[HttpDelete("user/delete/{id:length(24)}")]
 	public async Task<IActionResult> Delete(string id)
 	{
 		await _recipeService.GetUserRecipeAsync(id);
