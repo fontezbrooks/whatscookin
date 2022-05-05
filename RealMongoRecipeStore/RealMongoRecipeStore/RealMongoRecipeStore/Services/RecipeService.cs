@@ -40,6 +40,9 @@ public class RecipeService
 		
 		await _recipeCollection.Find(x => x._id == id).FirstOrDefaultAsync();
 
+	public async Task<List<Recipe>> GetUserFavoritesAsync() =>
+		await _userRecipeCollection.Find(_ => true).ToListAsync();
+
 	public async Task<Recipe> GetUserRecipeAsync(string id) =>
 		await _userRecipeCollection.Find(x => x._id == id).FirstOrDefaultAsync();
 

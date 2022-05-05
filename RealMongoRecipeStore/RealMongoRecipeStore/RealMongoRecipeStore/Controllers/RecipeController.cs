@@ -30,6 +30,10 @@ public class RecipeController : ControllerBase
 		return recipe;
 	}
 
+	[HttpGet("user")]
+	public async Task<List<Recipe>> GetUserFavorites() => 
+		await _recipeService.GetUserFavoritesAsync();
+
 	[HttpPost("user/favorite/{id:length(24)}")]
 	public async Task<IActionResult> UpdateUserDb(string id)
 	{
