@@ -7,4 +7,6 @@ public class RecipeDatabaseSettings
 	public string DatabaseName { get; set; } = null!;
 
 	public string RecipeCollectionName { get; set; } = null!;
+
+	public string UserRecipeCollectionName { get; set; } = null!;
 }

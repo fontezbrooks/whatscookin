@@ -8,6 +8,8 @@ public class RecipeService
 {
 	private readonly IMongoCollection<Recipe> _recipeCollection;
 
+	private readonly IMongoCollection<Recipe> _userRecipeCollection;
+
 	public RecipeService(IOptions<RecipeDatabaseSettings> recipeDatabaseSettings)
 	{
 		var mongoClient = new MongoClient(
@@ -19,6 +21,8 @@ public class RecipeService
 		_recipeCollection = mongoDatabase.GetCollection<Recipe>(
 			recipeDatabaseSettings.Value.RecipeCollectionName);
 
+		_userRecipeCollection =
+			mongoDatabase.GetCollection<Recipe>(recipeDatabaseSettings.Value.UserRecipeCollectionName);
 	}
 
 	public async Task<List<Recipe>> GetAsync() =>
@@ -36,12 +40,21 @@ public class RecipeService
 		
 		await _recipeCollection.Find(x => x._id == id).FirstOrDefaultAsync();
 
-	public async Task CreateAsync(Recipe newRecipe) => 
-		await _recipeCollection.InsertOneAsync(newRecipe);
+	public async Task<Recipe> GetUserRecipeAsync(string id) =>
+		await _userRecipeCollection.Find(x => x._id == id).FirstOrDefaultAsync();
 
-	public async Task UpdateAsync(string id, Recipe updatedBook) =>
-		await _recipeCollection.ReplaceOneAsync(x => x._id == id, updatedBook);
+	public async Task AddRecipeToUserDbAsync(string id)
+	{
+		var thisRecipe = await _recipeCollection.Find(x => x._id == id).FirstOrDefaultAsync();
+		await _userRecipeCollection.InsertOneAsync(thisRecipe);
+	}
+
+	public async Task CreateAsync(Recipe newRecipe) => 
+		await _userRecipeCollection.InsertOneAsync(newRecipe);
+
+	public async Task UpdateAsync(string id, Recipe recipe) =>
+		await _recipeCollection.ReplaceOneAsync(x => x._id == id, recipe);
 	
 	public async Task RemoveAsync(string id) =>
-		await _recipeCollection.DeleteOneAsync(x => x._id == id);
+		await _userRecipeCollection.DeleteOneAsync(x => x._id == id);
 }

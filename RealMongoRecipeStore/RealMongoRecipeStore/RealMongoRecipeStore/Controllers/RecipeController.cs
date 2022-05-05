@@ -30,6 +30,24 @@ public class RecipeController : ControllerBase
 		return recipe;
 	}
 
+	[HttpPost]
+	public async Task<IActionResult> UpdateUserDb(string id)
+	{
+		await _recipeService.AddRecipeToUserDbAsync(id);
+
+		return CreatedAtAction(nameof(Get), id);
+	}
+
+	[HttpDelete("{id:length(24)}")]
+	public async Task<IActionResult> Delete(string id)
+	{
+		await _recipeService.GetUserRecipeAsync(id);
+
+		await _recipeService.RemoveAsync(id);
+
+		return NoContent();
+	}
+	
 	[HttpGet("random")]
 	public async Task<ActionResult<Recipe>> GetRandomRecipe() => 
 		await _recipeService.GetRandomRecipeAsync();
