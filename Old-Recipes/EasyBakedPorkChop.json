@@ -1,0 +1,393 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": true,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 14,
+  "gaps": "no",
+  "lowFodmap": true,
+  "aggregateLikes": 405,
+  "spoonacularScore": 91.0,
+  "healthScore": 27.0,
+  "pricePerServing": 318.81,
+  "extendedIngredients": [
+    {
+      "id": 11935,
+      "aisle": "Condiments",
+      "image": "ketchup.png",
+      "consistency": "liquid",
+      "name": "ketchup",
+      "nameClean": "ketchup",
+      "original": "2 tbsp ketchup",
+      "originalName": "ketchup",
+      "amount": 2.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 9152,
+      "aisle": "Produce",
+      "image": "lemon-juice.jpg",
+      "consistency": "liquid",
+      "name": "lemon juice",
+      "nameClean": "lemon juice",
+      "original": "1 tbsp lemon juice",
+      "originalName": "lemon juice",
+      "amount": 1.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 10010062,
+      "aisle": "Meat",
+      "image": "pork-chops.jpg",
+      "consistency": "solid",
+      "name": "pork chops",
+      "nameClean": "pork chops",
+      "original": "6 medium cut pork chops",
+      "originalName": "cut pork chops",
+      "amount": 6.0,
+      "unit": "medium",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6.0,
+          "unitShort": "medium",
+          "unitLong": "mediums"
+        },
+        "metric": {
+          "amount": 6.0,
+          "unitShort": "medium",
+          "unitLong": "mediums"
+        }
+      }
+    },
+    {
+      "id": 16124,
+      "aisle": "Ethnic Foods;Condiments",
+      "image": "soy-sauce.jpg",
+      "consistency": "liquid",
+      "name": "soy sauce",
+      "nameClean": "soy sauce",
+      "original": "1 tbsp soy sauce",
+      "originalName": "soy sauce",
+      "amount": 1.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 4513,
+      "aisle": null,
+      "image": null,
+      "consistency": null,
+      "name": "vegetable oil",
+      "nameClean": null,
+      "original": "2 tbsp vegetable oil",
+      "originalName": "vegetable oil",
+      "amount": 2.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 6971,
+      "aisle": "Condiments",
+      "image": "dark-sauce.jpg",
+      "consistency": "liquid",
+      "name": "worcestershire sauce",
+      "nameClean": "worcestershire sauce",
+      "original": "2 tbsp worcestershire sauce",
+      "originalName": "worcestershire sauce",
+      "amount": 2.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    }
+  ],
+  "id": 715481,
+  "title": "Easy Baked Pork Chop",
+  "readyInMinutes": 45,
+  "servings": 3,
+  "sourceUrl": "http://www.pinkwhen.com/easy-baked-pork-chop-recipe/",
+  "image": "https://spoonacular.com/recipeImages/715481-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Easy Baked Pork Chop is a <b>gluten free, dairy free, and fodmap friendly</b> main course. For <b>$3.19 per serving</b>, this recipe <b>covers 31%</b> of your daily requirements of vitamins and minerals. One serving contains <b>519 calories</b>, <b>59g of protein</b>, and <b>28g of fat</b>. 404 people were impressed by this recipe. A mixture of soy sauce, worcestershire sauce, vegetable oil, and a handful of other ingredients are all it takes to make this recipe so flavorful. To use up the lemon juice you could follow this main course with the <a href=\"https://spoonacular.com/recipes/lemon-shortbread-cookies-with-lemon-icing-a-tribute-to-aunt-roxanne-487814\">Lemon Shortbread Cookies with Lemon Icing {A Tribute to Aunt Roxanne}</a> as a dessert. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 92%</b>. This score is spectacular. Try <a href=\"https://spoonacular.com/recipes/easy-dinner-s-baked-pork-chop-528251\">Easy Dinner s: Baked Pork Chop</a>, <a href=\"https://spoonacular.com/recipes/one-dish-baked-pork-chop-dinner-526437\">One Dish Baked Pork Chop Dinner</a>, and <a href=\"https://spoonacular.com/recipes/quick-easy-pork-chop-skillet-278477\">Quick & Easy Pork Chop Skillet</a> for similar recipes.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free",
+    "fodmap friendly"
+  ],
+  "occasions": [],
+  "instructions": "Heat your oven up to 350. Mix in a small bowl the soy sauce, worcestershire sauce, ketchup, vegetable oil, and lemon juice together. Rinse your pork chops, and place them in a glass baking dish. Place half of your mixture over the top of the pork chops and bake for 30 minutes. Remove from oven, turn over pork chops, and cover with the remaining mixture. Bake for an additional 30 minutes.You are all done! Add a salad, mashed potatoes, and some bread!Simple, Quick, and Easy.JOIN 500,000 SUBSCRIBERS!Join over 500,000 others who follow PinkWhen on Social Media, the PinkWhen blog, and email. Sign up to receive exclusive bonuses like this FREE Simple Fit Dinners Ebook.Don't wait! You won't want to miss a thing.Success! Now check your email to confirm your subscription and download your FREE ebook.There was an error submitting your subscription. Please try again.First NameEmail AddressSubscribePowered by ConvertKit",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Heat your oven up to 35",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Mix in a small bowl the soy sauce, worcestershire sauce, ketchup, vegetable oil, and lemon juice together. Rinse your pork chops, and place them in a glass baking dish.",
+          "ingredients": [
+            {
+              "id": 6971,
+              "name": "worcestershire sauce",
+              "localizedName": "worcestershire sauce",
+              "image": "dark-sauce.jpg"
+            },
+            {
+              "id": 4669,
+              "name": "vegetable oil",
+              "localizedName": "vegetable oil",
+              "image": "vegetable-oil.jpg"
+            },
+            {
+              "id": 9152,
+              "name": "lemon juice",
+              "localizedName": "lemon juice",
+              "image": "lemon-juice.jpg"
+            },
+            {
+              "id": 10010062,
+              "name": "pork chops",
+              "localizedName": "pork chops",
+              "image": "pork-chops.jpg"
+            },
+            {
+              "id": 16124,
+              "name": "soy sauce",
+              "localizedName": "soy sauce",
+              "image": "soy-sauce.jpg"
+            },
+            {
+              "id": 11935,
+              "name": "ketchup",
+              "localizedName": "ketchup",
+              "image": "ketchup.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 406921,
+              "name": "glass baking pan",
+              "localizedName": "glass baking pan",
+              "image": "glass-baking-tray.jpg"
+            },
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Place half of your mixture over the top of the pork chops and bake for 30 minutes.",
+          "ingredients": [
+            {
+              "id": 10010062,
+              "name": "pork chops",
+              "localizedName": "pork chops",
+              "image": "pork-chops.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 30,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Remove from oven, turn over pork chops, and cover with the remaining mixture.",
+          "ingredients": [
+            {
+              "id": 10010062,
+              "name": "pork chops",
+              "localizedName": "pork chops",
+              "image": "pork-chops.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "step": "Bake for an additional 30 minutes.You are all done!",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 30,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 6,
+          "step": "Add a salad, mashed potatoes, and some bread!Simple, Quick, and Easy.JOIN 500,000 SUBSCRIBERS!Join over 500,000 others who follow Pink",
+          "ingredients": [
+            {
+              "id": 11352,
+              "name": "potato",
+              "localizedName": "potato",
+              "image": "potatoes-yukon-gold.png"
+            },
+            {
+              "id": 18064,
+              "name": "bread",
+              "localizedName": "bread",
+              "image": "white-bread.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "When on Social Media, the Pink",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 8,
+          "step": "When blog, and email. Sign up to receive exclusive bonuses like this FREE Simple Fit Dinners Ebook.Don't wait! You won't want to miss a thing.Success! Now check your email to confirm your subscription and download your FREE ebook.There was an error submitting your subscription. Please try again.First Name",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 9,
+          "step": "Email",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 10,
+          "step": "Address",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 11,
+          "step": "Subscribe",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 12,
+          "step": "Powered by Convert",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 13,
+          "step": "Kit",
+          "ingredients": [],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/easy-baked-pork-chop-715481"
+}

@@ -1,0 +1,475 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 10,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 7,
+  "spoonacularScore": 58.0,
+  "healthScore": 17.0,
+  "pricePerServing": 185.0,
+  "extendedIngredients": [
+    {
+      "id": 99246,
+      "aisle": "Meat",
+      "image": "rotisserie-chicken.png",
+      "consistency": "solid",
+      "name": "rotisserie chicken",
+      "nameClean": "rotisserie chicken",
+      "original": "2 cups rotisserie chicken – shredded",
+      "originalName": "rotisserie chicken – shredded",
+      "amount": 2.0,
+      "unit": "cups",
+      "meta": [
+        "shredded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 473.176,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 18363,
+      "aisle": "Bakery/Bread;Pasta and Rice;Ethnic Foods",
+      "image": "flour-tortilla.jpg",
+      "consistency": "solid",
+      "name": "corn tortillas",
+      "nameClean": "white corn tortilla",
+      "original": "6 small corn tortillas",
+      "originalName": "corn tortillas",
+      "amount": 6.0,
+      "unit": "small",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6.0,
+          "unitShort": "small",
+          "unitLong": "smalls"
+        },
+        "metric": {
+          "amount": 6.0,
+          "unitShort": "small",
+          "unitLong": "smalls"
+        }
+      }
+    },
+    {
+      "id": 16202,
+      "aisle": "Canned and Jarred;Ethnic Foods",
+      "image": "refried-beans.png",
+      "consistency": "solid",
+      "name": "refried beans",
+      "nameClean": "refried beans",
+      "original": "1/3 can refried beans",
+      "originalName": "refried beans",
+      "amount": 0.3333333333333333,
+      "unit": "can",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.333,
+          "unitShort": "can",
+          "unitLong": "cans"
+        },
+        "metric": {
+          "amount": 0.333,
+          "unitShort": "can",
+          "unitLong": "cans"
+        }
+      }
+    },
+    {
+      "id": 11529,
+      "aisle": "Produce",
+      "image": "tomato.png",
+      "consistency": "solid",
+      "name": "tomato",
+      "nameClean": "tomato",
+      "original": "1/2 tomato, diced small",
+      "originalName": "1/2 tomato, diced",
+      "amount": 1.0,
+      "unit": "small",
+      "meta": [
+        "diced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "small",
+          "unitLong": "small"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "small",
+          "unitLong": "small"
+        }
+      }
+    },
+    {
+      "id": 11979,
+      "aisle": "Canned and Jarred;Produce;Ethnic Foods",
+      "image": "jalapeno-pepper.png",
+      "consistency": "solid",
+      "name": "jalapeno",
+      "nameClean": "jalapeno pepper",
+      "original": "1 jalapeño, sliced",
+      "originalName": "jalapeño, sliced",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11252,
+      "aisle": "Produce",
+      "image": "iceberg-lettuce.jpg",
+      "consistency": "solid",
+      "name": "iceberg lettuce",
+      "nameClean": "lettuce",
+      "original": "Shredded iceberg lettuce",
+      "originalName": "Shredded iceberg lettuce",
+      "amount": 3.0,
+      "unit": "servings",
+      "meta": [
+        "shredded"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 1001019,
+      "aisle": "Cheese",
+      "image": "feta.png",
+      "consistency": "solid",
+      "name": "cotija cheese",
+      "nameClean": "cotija cheese",
+      "original": "Cotija cheese (Mexican queso)",
+      "originalName": "Cotija cheese (Mexican queso)",
+      "amount": 3.0,
+      "unit": "servings",
+      "meta": [
+        "(Mexican queso)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 9159,
+      "aisle": "Produce",
+      "image": "lime.jpg",
+      "consistency": "solid",
+      "name": "lime",
+      "nameClean": "lime",
+      "original": "1 lime – cut into wedges",
+      "originalName": "lime – cut into wedges",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [
+        "cut into wedges"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1009037,
+      "aisle": "Refrigerated",
+      "image": "guacamole.jpg",
+      "consistency": "solid",
+      "name": "guacamole",
+      "nameClean": "guacamole",
+      "original": "6 teaspoons guacamole",
+      "originalName": "guacamole",
+      "amount": 6.0,
+      "unit": "teaspoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 6.0,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 6.0,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 6164,
+      "aisle": "Pasta and Rice;Ethnic Foods",
+      "image": "salsa.png",
+      "consistency": "solid",
+      "name": "salsa",
+      "nameClean": "salsa",
+      "original": "Salsa",
+      "originalName": "Salsa",
+      "amount": 3.0,
+      "unit": "servings",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    }
+  ],
+  "id": 1098354,
+  "title": "Rotisserie Chicken and Bean Tostadas",
+  "readyInMinutes": 30,
+  "servings": 3,
+  "sourceUrl": "https://www.foodista.com/recipe/YQF7DW47/rotisserie-chicken-and-bean-toastatas",
+  "image": "https://spoonacular.com/recipeImages/1098354-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Rotisserie Chicken and Bean Tostadas is a Mexican recipe that serves 3. This hor d'oeuvre has <b>401 calories</b>, <b>31g of protein</b>, and <b>16g of fat</b> per serving. For <b>$1.85 per serving</b>, this recipe <b>covers 23%</b> of your daily requirements of vitamins and minerals. If you have rotisserie chicken, iceberg lettuce, cotija cheese, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. Not a lot of people made this recipe, and 1 would say it hit the spot. From preparation to the plate, this recipe takes roughly <b>30 minutes</b>. It is a good option if you're following a <b>gluten free</b> diet. Overall, this recipe earns a <b>solid spoonacular score of 76%</b>. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/rotisserie-chicken-tostadas-217299\">Rotisserie Chicken Tostadas</a>, <a href=\"https://spoonacular.com/recipes/chicken-and-black-bean-tostadas-249183\">Chicken-and-Black Bean Tostadas</a>, and <a href=\"https://spoonacular.com/recipes/black-bean-and-chicken-tostadas-26555\">Black Bean-and-Chicken Tostadas</a>.",
+  "cuisines": [
+    "Mexican"
+  ],
+  "dishTypes": [
+    "antipasti",
+    "lunch",
+    "main course",
+    "starter",
+    "snack",
+    "appetizer",
+    "main dish",
+    "antipasto",
+    "hor d'oeuvre",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free"
+  ],
+  "occasions": [],
+  "instructions": "<ol><li>Preheat oven to 350 degrees.</li><li>Place corn tortillas on a cookie sheet and bake for 16-17 minutes or until the edges brown and curl.</li><li>Cool cooked tortillas at room temperature.</li><li>To build the tostadas, start by spreading 1-2 tablespoons of refried beans on each tortilla.</li><li>Next, top with a handful of shredded rotisserie chicken, shredded iceberg lettuce, diced tomato, and guacamole.</li><li>Drizzle with the juice of one lime wedge.</li><li>Sprinkle with cotija cheese.</li><li>Drizzle with salsa.</li><li>Garnish with jalapeos.</li><li>Serve open-faced.</li></ol><p>Makes 6 tostadas. Serving size is 2 tostadas.</p>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Preheat oven to 350 degrees.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Place corn tortillas on a cookie sheet and bake for 16-17 minutes or until the edges brown and curl.Cool cooked tortillas at room temperature.To build the tostadas, start by spreading 1-2 tablespoons of refried beans on each tortilla.Next, top with a handful of shredded rotisserie chicken, shredded iceberg lettuce, diced tomato, and guacamole.",
+          "ingredients": [
+            {
+              "id": 99246,
+              "name": "rotisserie chicken",
+              "localizedName": "rotisserie chicken",
+              "image": "rotisserie-chicken.png"
+            },
+            {
+              "id": 11252,
+              "name": "iceberg lettuce",
+              "localizedName": "iceberg lettuce",
+              "image": "iceberg-lettuce.jpg"
+            },
+            {
+              "id": 18363,
+              "name": "corn tortilla",
+              "localizedName": "corn tortilla",
+              "image": "corn-tortillas.png"
+            },
+            {
+              "id": 16202,
+              "name": "refried beans",
+              "localizedName": "refried beans",
+              "image": "refried-beans.png"
+            },
+            {
+              "id": 1009037,
+              "name": "guacamole",
+              "localizedName": "guacamole",
+              "image": "guacamole.jpg"
+            },
+            {
+              "id": 18364,
+              "name": "tortilla",
+              "localizedName": "tortilla",
+              "image": "flour-tortilla.jpg"
+            },
+            {
+              "id": 18952,
+              "name": "tostadas",
+              "localizedName": "tostadas",
+              "image": "tostada-shell.jpg"
+            },
+            {
+              "id": 10118192,
+              "name": "cookies",
+              "localizedName": "cookies",
+              "image": "shortbread-cookies.jpg"
+            },
+            {
+              "id": 11529,
+              "name": "tomato",
+              "localizedName": "tomato",
+              "image": "tomato.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404727,
+              "name": "baking sheet",
+              "localizedName": "baking sheet",
+              "image": "baking-sheet.jpg"
+            },
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 17,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 3,
+          "step": "Drizzle with the juice of one lime wedge.",
+          "ingredients": [
+            {
+              "id": 1029159,
+              "name": "lime wedge",
+              "localizedName": "lime wedge",
+              "image": "lime-wedge.jpg"
+            },
+            {
+              "id": 1019016,
+              "name": "juice",
+              "localizedName": "juice",
+              "image": "apple-juice.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Sprinkle with cotija cheese.",
+          "ingredients": [
+            {
+              "id": 1001019,
+              "name": "cotija cheese",
+              "localizedName": "cotija cheese",
+              "image": "feta.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Drizzle with salsa.",
+          "ingredients": [
+            {
+              "id": 6164,
+              "name": "salsa",
+              "localizedName": "salsa",
+              "image": "salsa.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Garnish with jalapeos.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Serve open-faced.Makes 6 tostadas. Serving size is 2 tostadas.",
+          "ingredients": [
+            {
+              "id": 18952,
+              "name": "tostadas",
+              "localizedName": "tostadas",
+              "image": "tostada-shell.jpg"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/rotisserie-chicken-and-bean-tostadas-1098354"
+}
