@@ -43,10 +43,9 @@ public class Recipe
 	[BsonElement("pricePerServing")]
 	public double PricePerServing { get; set; }
 	[BsonElement("extendedIngredients")]
-	public NestedElement[] ExtendedIngredients { get; set; } = null!;
+	public ExtraIngredients[] ExtendedIngredients { get; set; } = null!;
 	[BsonElement("id")]
-	[System.Text.Json.Serialization.JsonIgnore] 
-	public int id { get; set; }
+	public int RecipeId { get; set; }
 	[BsonElement("title")]
 	public string Title { get; set; } = null!;
 	[BsonElement("readyInMinutes")]
@@ -78,8 +77,7 @@ public class Recipe
 	[BsonElement("instructions")]
 	public string Instructions { get; set; } = null!;
 	[BsonElement("analyzedInstructions")]
-	[System.Text.Json.Serialization.JsonIgnore] 
-	public BsonDocument[] AnalyzedInstructions { get; set; } = null!;
+	public AnalyzedInstructions[] AnalyzedInstructions { get; set; } = null!;
 	[BsonElement("sourceName")]
 	public string SourceName { get; set; } = null!;
 	[BsonElement("creditsText")]
@@ -91,7 +89,7 @@ public class Recipe
 }
 
 [BsonIgnoreExtraElements]
-public class NestedElement
+public class ExtraIngredients
 {
 	[BsonElement("aisle")] 
 	public string Aisle { get; set; } = null!;
@@ -121,3 +119,60 @@ public class NestedElement
 	[System.Text.Json.Serialization.JsonIgnore]
 	public BsonDocument Measures { get; set; } = null!;
 }
+
+[BsonIgnoreExtraElements]
+public class AnalyzedInstructions
+{
+	[BsonElement("name")] 
+	public string Name { get; set; } = null!;
+
+	[BsonElement("steps")] 
+	public IEnumerable<Steps> Steps { get; set; } = null!;
+}
+
+[BsonIgnoreExtraElements]
+public class Steps
+{
+	[BsonElement("number")] 
+	public int Number { get; set; }
+	[BsonElement("step")] 
+	public string Step { get; set; } = null!;
+	[BsonElement("ingredients")] 
+	public IEnumerable<Ingredients> Ingredients { get; set; } = null!;
+	[BsonElement("equipment")] 
+	public IEnumerable<Equipment> Equipment { get; set; } = null!;
+}
+
+[BsonIgnoreExtraElements]
+public class Ingredients
+{
+	[BsonElement("id")]
+	public int Id { get; set; }
+
+	[BsonElement("name")] 
+	public string Name { get; set; } = null!;
+
+	[BsonElement("localizedName")] 
+	public string LocalizedName { get; set; } = null!;
+
+	[BsonElement("image")] 
+	public string Image { get; set; } = null!;
+}
+
+[BsonIgnoreExtraElements]
+public class Equipment
+{
+	[BsonElement("id")]
+	public int Id { get; set; }
+
+	[BsonElement("name")] 
+	public string Name { get; set; } = null!;
+
+	[BsonElement("localizedName")] 
+	public string LocalizedName { get; set; } = null!;
+
+	[BsonElement("image")] 
+	public string Image { get; set; } = null!;
+}
+
+
