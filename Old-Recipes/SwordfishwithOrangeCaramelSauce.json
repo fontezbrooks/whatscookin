@@ -1,0 +1,594 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 16,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 7,
+  "spoonacularScore": 75.0,
+  "healthScore": 29.0,
+  "pricePerServing": 447.45,
+  "extendedIngredients": [
+    {
+      "id": 15110,
+      "aisle": "Seafood",
+      "image": "swordfish.jpg",
+      "consistency": "solid",
+      "name": "swordfish",
+      "nameClean": "swordfish",
+      "original": "4 equal sizes of swordfish",
+      "originalName": "equal sizes of swordfish",
+      "amount": 4.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 4.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1077,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "milk.png",
+      "consistency": "liquid",
+      "name": "milk",
+      "nameClean": "milk",
+      "original": "½ cup milk or cream",
+      "originalName": "milk or cream",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 10018079,
+      "aisle": "Bakery/Bread;Ethnic Foods;Oil, Vinegar, Salad Dressing;Baking",
+      "image": "panko.jpg",
+      "consistency": "solid",
+      "name": "panko",
+      "nameClean": "panko",
+      "original": "1 cup Panko",
+      "originalName": "Panko",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 18079,
+      "aisle": "Pasta and Rice",
+      "image": "breadcrumbs.jpg",
+      "consistency": "solid",
+      "name": "bread crumbs",
+      "nameClean": "breadcrumbs",
+      "original": "½ cup Bread crumbs",
+      "originalName": "Bread crumbs",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1033,
+      "aisle": "Cheese",
+      "image": "parmesan.jpg",
+      "consistency": "solid",
+      "name": "parmesan cheese",
+      "nameClean": "parmesan",
+      "original": "½ cup Parmesan Cheese",
+      "originalName": "Parmesan Cheese",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1102047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt-and-pepper.jpg",
+      "consistency": "solid",
+      "name": "salt and pepper",
+      "nameClean": "salt and pepper",
+      "original": "Salt and pepper",
+      "originalName": "Salt and pepper",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 99226,
+      "aisle": "Produce",
+      "image": "fresh-sage.png",
+      "consistency": "solid",
+      "name": "sage",
+      "nameClean": "sage",
+      "original": "Dry sage and marjoram",
+      "originalName": "Dry sage and marjoram",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [
+        "dry"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 9200,
+      "aisle": "Produce",
+      "image": "orange.png",
+      "consistency": "solid",
+      "name": "orange",
+      "nameClean": "orange",
+      "original": "1 orange, squeezed",
+      "originalName": "orange, squeezed",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1145,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "butter-sliced.jpg",
+      "consistency": "solid",
+      "name": "unsalted butter",
+      "nameClean": "unsalted butter",
+      "original": "4 to 6 tablespoon unsalted butter",
+      "originalName": "unsalted butter",
+      "amount": 4.0,
+      "unit": "tablespoon",
+      "meta": [
+        "unsalted"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 4.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 19335,
+      "aisle": "Baking",
+      "image": "sugar-in-bowl.png",
+      "consistency": "solid",
+      "name": "sugar",
+      "nameClean": "sugar",
+      "original": "Sugar",
+      "originalName": "Sugar",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    }
+  ],
+  "id": 662694,
+  "title": "Swordfish with Orange Caramel Sauce",
+  "readyInMinutes": 45,
+  "servings": 4,
+  "sourceUrl": "https://www.foodista.com/recipe/P3YJ6CW3/swordfish-with-orange-caramel-sauce",
+  "image": "https://spoonacular.com/recipeImages/662694-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Need a <b>pescatarian main course</b>? Swordfish with Orange Caramel Sauce could be an amazing recipe to try. One portion of this dish contains around <b>43g of protein</b>, <b>28g of fat</b>, and a total of <b>552 calories</b>. For <b>$4.47 per serving</b>, this recipe <b>covers 32%</b> of your daily requirements of vitamins and minerals. This recipe serves 4. This recipe from Foodista requires equal sizes of swordfish, orange, sage and marjoram, and parmesan cheese. 7 people were glad they tried this recipe. From preparation to the plate, this recipe takes around <b>around 45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 75%</b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/daring-bakers-challenge-vanilla-bean-blood-orange-panna-cotta-with-orange-allspice-caramel-sauce-and-orange-cardamom-hazelnut-dark-chocolate-florentines-gluten-free-51204\">Daring Bakers’ Challenge: Vanilla Bean & Blood Orange Panna Cotta with Orange Allspice Caramel Sauce and Orange Cardamom Hazelnut Dark Chocolate Florentines (gluten free)</a>, <a href=\"https://spoonacular.com/recipes/cherry-orange-cream-scones-with-blood-orange-caramel-sauce-484258\">Cherry-Orange Cream Scones with Blood Orange Caramel Sauce</a>, and <a href=\"https://spoonacular.com/recipes/blood-orange-tart-with-orange-caramel-sauce-51228\">Blood Orange Tart with Orange Caramel Sauce</a>.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "pescatarian"
+  ],
+  "occasions": [],
+  "instructions": "Pat dry the swordfish. In a plate mix together the panko, bread crumbs, parmesan cheese, dry sage and marjoram and the salt and pepper. Mix well.\nIn another plate place the milk or cream.\nDip the swordfish into the milk and let any excess drip away.\nRoll into the panko-parmesan mixture and press it against the swordfish to adhere.\nIn a large skillet melt 2 tablespoons of butter. When melted add the swordfish and cook until nicely golden on each side and the fish is springy yet cooked.\nRemove the swordfish from the skillet and let it rest while preparing the sauce.\nRemove all the cooking butter from the skillet and place the skillet over medium high heat.\nAdd the orange juice and reduce by half.\nAdd the butter remaining, the sugar and reduce until a thick sauce is crated.\nServe the sauce over the fish or alongside.\nIf the sauce is too thick and too tangy; add a bit more sugar and swirl in another tablespoon of butter.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Pat dry the swordfish. In a plate mix together the panko, bread crumbs, parmesan cheese, dry sage and marjoram and the salt and pepper.",
+          "ingredients": [
+            {
+              "id": 1033,
+              "name": "parmesan",
+              "localizedName": "parmesan",
+              "image": "parmesan.jpg"
+            },
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 18079,
+              "name": "breadcrumbs",
+              "localizedName": "breadcrumbs",
+              "image": "breadcrumbs.jpg"
+            },
+            {
+              "id": 15110,
+              "name": "swordfish",
+              "localizedName": "swordfish",
+              "image": "swordfish.jpg"
+            },
+            {
+              "id": 2023,
+              "name": "marjoram",
+              "localizedName": "marjoram",
+              "image": "marjoram.jpg"
+            },
+            {
+              "id": 10018079,
+              "name": "panko",
+              "localizedName": "panko",
+              "image": "panko.jpg"
+            },
+            {
+              "id": 99226,
+              "name": "sage",
+              "localizedName": "sage",
+              "image": "fresh-sage.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 2,
+          "step": "Mix well.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "In another plate place the milk or cream.",
+          "ingredients": [
+            {
+              "id": 1053,
+              "name": "cream",
+              "localizedName": "cream",
+              "image": "fluid-cream.jpg"
+            },
+            {
+              "id": 1077,
+              "name": "milk",
+              "localizedName": "milk",
+              "image": "milk.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Dip the swordfish into the milk and let any excess drip away.",
+          "ingredients": [
+            {
+              "id": 15110,
+              "name": "swordfish",
+              "localizedName": "swordfish",
+              "image": "swordfish.jpg"
+            },
+            {
+              "id": 1077,
+              "name": "milk",
+              "localizedName": "milk",
+              "image": "milk.png"
+            },
+            {
+              "id": 0,
+              "name": "dip",
+              "localizedName": "dip",
+              "image": ""
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Roll into the panko-parmesan mixture and press it against the swordfish to adhere.",
+          "ingredients": [
+            {
+              "id": 15110,
+              "name": "swordfish",
+              "localizedName": "swordfish",
+              "image": "swordfish.jpg"
+            },
+            {
+              "id": 1033,
+              "name": "parmesan",
+              "localizedName": "parmesan",
+              "image": "parmesan.jpg"
+            },
+            {
+              "id": 10018079,
+              "name": "panko",
+              "localizedName": "panko",
+              "image": "panko.jpg"
+            },
+            {
+              "id": 0,
+              "name": "roll",
+              "localizedName": "roll",
+              "image": "dinner-yeast-rolls.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "In a large skillet melt 2 tablespoons of butter. When melted add the swordfish and cook until nicely golden on each side and the fish is springy yet cooked.",
+          "ingredients": [
+            {
+              "id": 15110,
+              "name": "swordfish",
+              "localizedName": "swordfish",
+              "image": "swordfish.jpg"
+            },
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            },
+            {
+              "id": 10115261,
+              "name": "fish",
+              "localizedName": "fish",
+              "image": "fish-fillet.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "step": "Remove the swordfish from the skillet and let it rest while preparing the sauce.",
+          "ingredients": [
+            {
+              "id": 15110,
+              "name": "swordfish",
+              "localizedName": "swordfish",
+              "image": "swordfish.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "step": "Remove all the cooking butter from the skillet and place the skillet over medium high heat.",
+          "ingredients": [
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "step": "Add the orange juice and reduce by half.",
+          "ingredients": [
+            {
+              "id": 9206,
+              "name": "orange juice",
+              "localizedName": "orange juice",
+              "image": "orange-juice.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 10,
+          "step": "Add the butter remaining, the sugar and reduce until a thick sauce is crated.",
+          "ingredients": [
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            },
+            {
+              "id": 19335,
+              "name": "sugar",
+              "localizedName": "sugar",
+              "image": "sugar-in-bowl.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 11,
+          "step": "Serve the sauce over the fish or alongside.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            },
+            {
+              "id": 10115261,
+              "name": "fish",
+              "localizedName": "fish",
+              "image": "fish-fillet.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 12,
+          "step": "If the sauce is too thick and too tangy; add a bit more sugar and swirl in another tablespoon of butter.",
+          "ingredients": [
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            },
+            {
+              "id": 19335,
+              "name": "sugar",
+              "localizedName": "sugar",
+              "image": "sugar-in-bowl.png"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/swordfish-with-orange-caramel-sauce-662694"
+}

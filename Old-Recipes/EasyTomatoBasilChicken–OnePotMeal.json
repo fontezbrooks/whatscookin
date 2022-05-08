@@ -1,0 +1,309 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 12,
+  "gaps": "no",
+  "lowFodmap": false,
+  "preparationMinutes": 5,
+  "cookingMinutes": 25,
+  "aggregateLikes": 10,
+  "spoonacularScore": 65.0,
+  "healthScore": 25.0,
+  "pricePerServing": 139.51,
+  "extendedIngredients": [
+    {
+      "id": 1034053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "extra-virgin olive oil",
+      "nameClean": "extra virgin olive oil",
+      "original": "1 tbsp olive oil extra virgin",
+      "originalName": "olive oil extra virgin",
+      "amount": 1.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 10211821,
+      "aisle": "Produce",
+      "image": "bell-pepper-orange.png",
+      "consistency": "solid",
+      "name": "bell pepper",
+      "nameClean": "bell pepper",
+      "original": "1/4 cup bell pepper chopped",
+      "originalName": "bell pepper chopped",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 59.147,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 5064,
+      "aisle": "Meat",
+      "image": "cooked-chicken-breast.png",
+      "consistency": "solid",
+      "name": "cooked chicken breast",
+      "nameClean": "cooked chicken breast",
+      "original": "1 cup chicken breast strips/pre-cooked/chopped",
+      "originalName": "chicken breast strips/pre-cooked/chopped",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 2044,
+      "aisle": "Produce",
+      "image": "fresh-basil.jpg",
+      "consistency": "solid",
+      "name": "fresh basil",
+      "nameClean": "fresh basil",
+      "original": "1/4 cup basil fresh",
+      "originalName": "basil fresh",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [
+        "fresh"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 59.147,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 6233,
+      "aisle": "Pasta and Rice",
+      "image": "tomato-sauce-or-pasta-sauce.jpg",
+      "consistency": "solid",
+      "name": "tomato & basil sauce",
+      "nameClean": "tomato and basil sauce",
+      "original": "1 24oz tomato basil sauce",
+      "originalName": "tomato basil sauce",
+      "amount": 24.0,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 24.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 680.389,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11320420,
+      "aisle": "Pasta and Rice",
+      "image": "fusilli.jpg",
+      "consistency": "solid",
+      "name": "rotini pasta",
+      "nameClean": "corkscrew pasta",
+      "original": "1 16oz rotini pasta",
+      "originalName": "rotini pasta",
+      "amount": 16.0,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 16.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    }
+  ],
+  "id": 1070648,
+  "title": "Easy Tomato Basil Chicken – One Pot Meal",
+  "readyInMinutes": 30,
+  "servings": 6,
+  "sourceUrl": "https://www.pinkwhen.com/one-pot-meal-chicken-recipe/",
+  "image": "https://spoonacular.com/recipeImages/1070648-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Need a <b>dairy free main course</b>? Easy Tomato Basil Chicken – One Pot Meal could be an outstanding recipe to try. One portion of this dish contains approximately <b>19g of protein</b>, <b>7g of fat</b>, and a total of <b>423 calories</b>. For <b>$1.4 per serving</b>, this recipe <b>covers 15%</b> of your daily requirements of vitamins and minerals. This recipe serves 6. It is brought to you by Pink When. 1 person were impressed by this recipe. A mixture of tomato basil sauce, bell pepper, basil, and a handful of other ingredients are all it takes to make this recipe so yummy. From preparation to the plate, this recipe takes approximately <b>30 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 71%</b>, which is solid. Similar recipes include <a href=\"https://spoonacular.com/recipes/quick-and-easy-tomato-basil-chicken-soup-504362\">Quick and Easy – Tomato Basil Chicken Soup</a>, <a href=\"https://spoonacular.com/recipes/easy-tomato-basil-soup-with-chicken-sausage-and-cheese-tortellini-584826\">Easy Tomato Basil Soup With Chicken Sausage and Cheese Tortellini</a>, and <a href=\"https://spoonacular.com/recipes/bacon-tomato-and-basil-pasta-20-minute-meal-504373\">Bacon, Tomato and Basil Pasta – 20 minute meal</a>.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "dairy free"
+  ],
+  "occasions": [],
+  "instructions": "Instructions\n\nCook the Rotini pasta according to the instructions. Drain. \n\nIn a medium saucepan, saute the bell pepper for 3 minutes in olive oil. \n\nAdd in tomato basil sauce, cooked rotini, chopped chicken and cook covered for 10 - 15 minutes. Stir frequently. \n\nRemove from heat and top with fresh chopped basil before serving.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Cook the Rotini pasta according to the instructions.",
+          "ingredients": [
+            {
+              "id": 11320420,
+              "name": "rotini",
+              "localizedName": "rotini",
+              "image": "fusilli.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 2,
+          "step": "Drain.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "In a medium saucepan, saute the bell pepper for 3 minutes in olive oil.",
+          "ingredients": [
+            {
+              "id": 10211821,
+              "name": "bell pepper",
+              "localizedName": "bell pepper",
+              "image": "bell-pepper-orange.png"
+            },
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404669,
+              "name": "sauce pan",
+              "localizedName": "sauce pan",
+              "image": "sauce-pan.jpg"
+            }
+          ],
+          "length": {
+            "number": 3,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Add in tomato basil sauce, cooked rotini, chopped chicken and cook covered for 10 - 15 minutes. Stir frequently.",
+          "ingredients": [
+            {
+              "id": 11320421,
+              "name": "cooked rotini",
+              "localizedName": "cooked rotini",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 5006,
+              "name": "whole chicken",
+              "localizedName": "whole chicken",
+              "image": "whole-chicken.jpg"
+            },
+            {
+              "id": 11529,
+              "name": "tomato",
+              "localizedName": "tomato",
+              "image": "tomato.png"
+            },
+            {
+              "id": 2044,
+              "name": "basil",
+              "localizedName": "basil",
+              "image": "basil.jpg"
+            },
+            {
+              "id": 0,
+              "name": "sauce",
+              "localizedName": "sauce",
+              "image": ""
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 15,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 5,
+          "step": "Remove from heat and top with fresh chopped basil before serving.",
+          "ingredients": [
+            {
+              "id": 2044,
+              "name": "basil",
+              "localizedName": "basil",
+              "image": "basil.jpg"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/easy-tomato-basil-chicken-one-pot-meal-1070648"
+}

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lovebirds-demo",
+    "slug": "lovebirds-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 7,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 10,
+  "spoonacularScore": 84.0,
+  "healthScore": 33.0,
+  "pricePerServing": 410.46,
+  "extendedIngredients": [
+    {
+      "id": 4582,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vegetable-oil.jpg",
+      "consistency": "liquid",
+      "name": "cooking oil",
+      "nameClean": "cooking oil",
+      "original": "5 tablespoons Veg oil",
+      "originalName": "Veg oil",
+      "amount": 5.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 5.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 5.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 1002014,
+      "aisle": "Spices and Seasonings",
+      "image": "ground-cumin.jpg",
+      "consistency": "solid",
+      "name": "cumin",
+      "nameClean": "cumin",
+      "original": "1/4 cup Cumin",
+      "originalName": "Cumin",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 59.147,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 17013,
+      "aisle": "Meat",
+      "image": "leg-of-lamb.png",
+      "consistency": "solid",
+      "name": "leg of lamb",
+      "nameClean": "leg of lamb",
+      "original": "10 pounds Leg of lamb",
+      "originalName": "Leg of lamb",
+      "amount": 10.0,
+      "unit": "pounds",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 10.0,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 4.536,
+          "unitShort": "kilogram",
+          "unitLong": "kilograms"
+        }
+      }
+    },
+    {
+      "id": 2025,
+      "aisle": "Spices and Seasonings",
+      "image": "ground-nutmeg.jpg",
+      "consistency": "solid",
+      "name": "nutmeg",
+      "nameClean": "nutmeg",
+      "original": "1/2 teaspoon Nutmeg",
+      "originalName": "Nutmeg",
+      "amount": 0.5,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 2028,
+      "aisle": "Spices and Seasonings",
+      "image": "paprika.jpg",
+      "consistency": "solid",
+      "name": "paprika",
+      "nameClean": "paprika",
+      "original": "2 tablespoons Paprika",
+      "originalName": "Paprika",
+      "amount": 2.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 1001116,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "plain-yogurt.jpg",
+      "consistency": "liquid",
+      "name": "plain yogurt",
+      "nameClean": "plain yogurt",
+      "original": "Plain yogurt 80g (I used my homemade yogurt)",
+      "originalName": "Plain yogurt (I used my homemade yogurt)",
+      "amount": 80.0,
+      "unit": "g",
+      "meta": [
+        "plain",
+        "homemade",
+        "(I used my yogurt)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.822,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 80.0,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "solid",
+      "name": "salt",
+      "nameClean": "table salt",
+      "original": "salt 1/4 tsp.",
+      "originalName": "salt",
+      "amount": 0.25,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 2043,
+      "aisle": "Spices and Seasonings",
+      "image": "turmeric.jpg",
+      "consistency": "solid",
+      "name": "tumeric",
+      "nameClean": "turmeric",
+      "original": "1 tablespoon Tumeric",
+      "originalName": "Tumeric",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    }
+  ],
+  "id": 665550,
+  "title": "Yogurt Marinated Lamb Skewers",
+  "readyInMinutes": 45,
+  "servings": 12,
+  "sourceUrl": "http://www.foodista.com/recipe/7RX6GPFB/grilled-leg-of-lamb-with-yogurt",
+  "image": "https://spoonacular.com/recipeImages/665550-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Yogurt Marinated Lamb Skewers might be just the main course you are searching for. One serving contains <b>315 calories</b>, <b>49g of protein</b>, and <b>11g of fat</b>. For <b>$4.09 per serving</b>, this recipe <b>covers 27%</b> of your daily requirements of vitamins and minerals. 10 people have made this recipe and would make it again. A mixture of tumeric, salt, nutmeg, and a handful of other ingredients are all it takes to make this recipe so flavorful. To use up the plain yogurt you could follow this main course with the <a href=\"https://spoonacular.com/recipes/5-minute-healthy-peach-frozen-yogurt-516109\">5-Minute Healthy Peach Frozen Yogurt</a> as a dessert. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 94%</b>. This score is spectacular. Try <a href=\"https://spoonacular.com/recipes/yogurt-and-mint-marinated-lamb-skewers-606500\">Yogurt- and Mint-Marinated Lamb Skewers</a>, <a href=\"https://spoonacular.com/recipes/yogurt-marinated-chicken-skewers-with-toum-garlic-sauce-879085\">Yogurt Marinated Chicken Skewers With Toum Garlic Sauce</a>, and <a href=\"https://spoonacular.com/recipes/lamb-skewers-with-yogurt-sauce-98185\">Lamb Skewers with Yogurt Sauce</a> for similar recipes.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free"
+  ],
+  "occasions": [],
+  "instructions": "<ol><li>Bone the lamb and cut into 1\" cubes. Combine all ingredients in a large bowl, mix, cover and refrigerate overnight. Skewer cubes and grill over charcoal about 7 min. per side.</li></ol>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Bone the lamb and cut into 1\" cubes.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "bone",
+              "localizedName": "bone",
+              "image": ""
+            },
+            {
+              "id": 10017224,
+              "name": "lamb",
+              "localizedName": "lamb",
+              "image": "lamb-shanks.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 2,
+          "step": "Combine all ingredients in a large bowl, mix, cover and refrigerate overnight. Skewer cubes and grill over charcoal about 7 min. per side.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 3065,
+              "name": "skewers",
+              "localizedName": "skewers",
+              "image": "wooden-skewers.jpg"
+            },
+            {
+              "id": 404706,
+              "name": "grill",
+              "localizedName": "grill",
+              "image": "grill.jpg"
+            },
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ],
+          "length": {
+            "number": 7,
+            "unit": "minutes"
+          }
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/yogurt-marinated-lamb-skewers-665550"
+}
