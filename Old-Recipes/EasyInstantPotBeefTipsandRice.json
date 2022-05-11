@@ -1,0 +1,358 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 8,
+  "gaps": "no",
+  "lowFodmap": false,
+  "preparationMinutes": 5,
+  "cookingMinutes": 25,
+  "aggregateLikes": 25,
+  "spoonacularScore": 93.0,
+  "healthScore": 49.0,
+  "pricePerServing": 406.06,
+  "extendedIngredients": [
+    {
+      "id": 23584,
+      "aisle": "Meat",
+      "image": "top-sirloin-steak.jpg",
+      "consistency": "solid",
+      "name": "beef top sirloin steak",
+      "nameClean": "top sirloin steak",
+      "original": "2 pounds of sirloin beef tips",
+      "originalName": "sirloin beef tips",
+      "amount": 2.0,
+      "unit": "pounds",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "lb",
+          "unitLong": "pounds"
+        },
+        "metric": {
+          "amount": 907.185,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 6147,
+      "aisle": "Canned and Jarred",
+      "image": "cream-of-mushroom-soup.png",
+      "consistency": "liquid",
+      "name": "cream of mushroom soup",
+      "nameClean": "condensed cream of mushroom soup",
+      "original": "1 large can (or 2 small cans) cream of mushroom soup",
+      "originalName": "(or 2 small cans) cream of mushroom soup",
+      "amount": 1.0,
+      "unit": "large can",
+      "meta": [
+        "(or 2 small cans)"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "large can",
+          "unitLong": "large can"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "large can",
+          "unitLong": "large can"
+        }
+      }
+    },
+    {
+      "id": 1022020,
+      "aisle": "Spices and Seasonings",
+      "image": "garlic-powder.png",
+      "consistency": "solid",
+      "name": "garlic powder",
+      "nameClean": "garlic powder",
+      "original": "1 tbsp garlic powder",
+      "originalName": "garlic powder",
+      "amount": 1.0,
+      "unit": "tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 6150,
+      "aisle": "Condiments",
+      "image": "barbecue-sauce.jpg",
+      "consistency": "solid",
+      "name": "bbq sauce",
+      "nameClean": "barbecue sauce",
+      "original": "1/3 cup of Dale's Seasoning Sauce (or 1/3 cup of Worcestershire and 1 tsp black pepper)",
+      "originalName": "Dale's Seasoning Sauce (or 1/3 cup of Worcestershire and 1 tsp black pepper)",
+      "amount": 0.3333333333333333,
+      "unit": "cup",
+      "meta": [
+        "black"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.333,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 78.863,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "1 tsp olive oil",
+      "originalName": "olive oil",
+      "amount": 1.0,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "solid",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "½ medium onion finely chopped",
+      "originalName": "onion finely chopped",
+      "amount": 0.5,
+      "unit": "medium",
+      "meta": [
+        "finely chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "medium",
+          "unitLong": "mediums"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "medium",
+          "unitLong": "mediums"
+        }
+      }
+    },
+    {
+      "id": 14412,
+      "aisle": "Beverages",
+      "image": "water.png",
+      "consistency": "liquid",
+      "name": "water",
+      "nameClean": "water",
+      "original": "½ cup water",
+      "originalName": "water",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    }
+  ],
+  "id": 1000566,
+  "title": "Easy Instant Pot Beef Tips and Rice",
+  "readyInMinutes": 30,
+  "servings": 4,
+  "sourceUrl": "https://www.pinkwhen.com/beef-tips-and-rice/",
+  "image": "https://spoonacular.com/recipeImages/1000566-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Easy Instant Pot Beef Tips and Rice is a <b>gluten free and dairy free</b> main course. This recipe makes 4 servings with <b>388 calories</b>, <b>53g of protein</b>, and <b>11g of fat</b> each. For <b>$2.3 per serving</b>, this recipe <b>covers 28%</b> of your daily requirements of vitamins and minerals. 25 people have tried and liked this recipe. From preparation to the plate, this recipe takes about <b>30 minutes</b>. A mixture of garlic powder, water, sirloin beef tips, and a handful of other ingredients are all it takes to make this recipe so delicious. It is brought to you by Pink When. With a spoonacular <b>score of 57%</b>, this dish is solid. Users who liked this recipe also liked <a href=\"https://spoonacular.com/recipes/instant-pot-red-wine-beef-tips-974803\">Instant Pot Red Wine Beef Tips</a>, <a href=\"https://spoonacular.com/recipes/slow-cooker-beef-tips-over-rice-a-quick-and-easy-crockpot-514315\">Slow Cooker Beef Tips over Rice: A quick and easy crockpot</a>, and <a href=\"https://spoonacular.com/recipes/easy-instant-pot-beef-stroganoff-941495\">Easy Instant Pot Beef Stroganoff</a>.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free"
+  ],
+  "occasions": [],
+  "instructions": "Set Instant Pot to the saute setting. Once warm, add olive oil, beef tips, and onion. Stir and saut for 5 minutes or until meat starts to brown.\nAdd water, Dales, and cream of mushroom soup, and garlic powder. Stir to mix well, and then cover with lid.\nCook on Manual Setting on High Pressure for 25 minutes. It will take a few minutes to come to pressure.\nOnce done, allow to naturally release for 20 minutes.\nServe over rice (or sub noodles or mashed potatoes) and serve with french bread to sop up the gravy.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Set Instant Pot to the saute setting. Once warm, add olive oil, beef tips, and onion. Stir and saut for 5 minutes or until meat starts to brown.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            },
+            {
+              "id": 23572,
+              "name": "beef",
+              "localizedName": "beef",
+              "image": "beef-cubes-raw.png"
+            },
+            {
+              "id": 1065062,
+              "name": "meat",
+              "localizedName": "meat",
+              "image": "whole-chicken.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 414093,
+              "name": "instant pot",
+              "localizedName": "instant pot",
+              "image": ""
+            }
+          ],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 2,
+          "step": "Add water, Dales, and cream of mushroom soup, and garlic powder. Stir to mix well, and then cover with lid.",
+          "ingredients": [
+            {
+              "id": 6147,
+              "name": "cream of mushroom soup",
+              "localizedName": "cream of mushroom soup",
+              "image": "cream-of-mushroom-soup.png"
+            },
+            {
+              "id": 1022020,
+              "name": "garlic powder",
+              "localizedName": "garlic powder",
+              "image": "garlic-powder.png"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "Cook on Manual Setting on High Pressure for 25 minutes. It will take a few minutes to come to pressure.",
+          "ingredients": [],
+          "equipment": [],
+          "length": {
+            "number": 25,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Once done, allow to naturally release for 20 minutes.",
+          "ingredients": [],
+          "equipment": [],
+          "length": {
+            "number": 20,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 5,
+          "step": "Serve over rice (or sub noodles or mashed potatoes) and serve with french bread to sop up the gravy.",
+          "ingredients": [
+            {
+              "id": 18029,
+              "name": "french bread",
+              "localizedName": "french bread",
+              "image": "crusty-bread.jpg"
+            },
+            {
+              "id": 11352,
+              "name": "potato",
+              "localizedName": "potato",
+              "image": "potatoes-yukon-gold.png"
+            },
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 6997,
+              "name": "gravy",
+              "localizedName": "gravy",
+              "image": "gravy.jpg"
+            },
+            {
+              "id": 20444,
+              "name": "rice",
+              "localizedName": "rice",
+              "image": "uncooked-white-rice.png"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/easy-instant-pot-beef-tips-and-rice-1000566"
+}

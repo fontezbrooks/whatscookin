@@ -1,0 +1,472 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 12,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 74,
+  "spoonacularScore": 65.0,
+  "healthScore": 11.0,
+  "pricePerServing": 196.78,
+  "extendedIngredients": [
+    {
+      "id": 1159,
+      "aisle": "Cheese",
+      "image": "goat-cheese.jpg",
+      "consistency": "solid",
+      "name": "goat cheese",
+      "nameClean": "goat cheese",
+      "original": "1 (4 oz.) fresh goat cheese, Chavrie log",
+      "originalName": "fresh goat cheese, Chavrie log",
+      "amount": 4.0,
+      "unit": "oz",
+      "meta": [
+        "fresh"
+      ],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 113.398,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10017224,
+      "aisle": "Meat",
+      "image": "lamb-shanks.jpg",
+      "consistency": "solid",
+      "name": "lamb",
+      "nameClean": "lamb",
+      "original": "8 2-ounce lamb loins",
+      "originalName": "lamb loins",
+      "amount": 16.0,
+      "unit": "ounce",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 16.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "2 tablespoons olive oil",
+      "originalName": "olive oil",
+      "amount": 2.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 11457,
+      "aisle": "Produce",
+      "image": "spinach.jpg",
+      "consistency": "solid",
+      "name": "baby spinach",
+      "nameClean": "baby spinach",
+      "original": "4 oz. baby spinach",
+      "originalName": "baby spinach",
+      "amount": 4.0,
+      "unit": "oz",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 113.398,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "1 tablespoon garlic (chopped)",
+      "originalName": "garlic (chopped)",
+      "amount": 1.0,
+      "unit": "tablespoon",
+      "meta": [
+        "chopped",
+        "()"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 4582,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vegetable-oil.jpg",
+      "consistency": "liquid",
+      "name": "cooking oil",
+      "nameClean": "cooking oil",
+      "original": "3 tablespoons cooking oil",
+      "originalName": "cooking oil",
+      "amount": 3.0,
+      "unit": "tablespoons",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 1102047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt-and-pepper.jpg",
+      "consistency": "solid",
+      "name": "Salt & Pepper",
+      "nameClean": "salt and pepper",
+      "original": "salt and pepper to season",
+      "originalName": "salt and pepper to season",
+      "amount": 1.0,
+      "unit": "serving",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    }
+  ],
+  "id": 649183,
+  "title": "Lamb and Fresh Goat Cheese Roulade",
+  "readyInMinutes": 45,
+  "servings": 6,
+  "sourceUrl": "https://www.foodista.com/recipe/8QF2VY7K/lamb-roulade-with-fresh-goat-cheese",
+  "image": "https://spoonacular.com/recipeImages/649183-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Lamb and Fresh Goat Cheese Roulade is a <b>gluten free</b> main course. This recipe serves 6. For <b>$1.97 per serving</b>, this recipe <b>covers 17%</b> of your daily requirements of vitamins and minerals. One portion of this dish contains around <b>17g of protein</b>, <b>33g of fat</b>, and a total of <b>373 calories</b>. Head to the store and pick up baby spinach, cooking oil, salt and pepper to season, and a few other things to make it today. This recipe is liked by 74 foodies and cooks. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. This recipe is typical of European cuisine. It is brought to you by Foodista. All things considered, we decided this recipe <b>deserves a spoonacular score of 64%</b>. This score is solid. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/goat-cheese-and-herb-stuffed-chicken-roulade-353260\">Goat Cheese and Herb Stuffed Chicken Roulade</a>, <a href=\"https://spoonacular.com/recipes/chicken-sweet-potato-roulade-with-goat-cheese-sauce-638493\">Chicken/sweet Potato Roulade With Goat Cheese Sauce</a>, and <a href=\"https://spoonacular.com/recipes/goat-cheese-stuffed-lamb-burgers-460160\">Goat Cheese Stuffed Lamb Burgers</a>.",
+  "cuisines": [
+    "German",
+    "European"
+  ],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free"
+  ],
+  "occasions": [],
+  "instructions": "Heat 2 tbsp. olive oil in a saut pan over medium high heat.\nAdd the garlic and saut for 10 seconds then add the spinach and saut only until the spinach wilts.\nSet aside to cool.\nLay out the lamb loin and butterfly to create a flat piece about 6 inches wide.\nSeason the loin with salt and pepper.\nSqueeze the excess water from the spinach and spread evenly over the lamb loin.\nSplit the goat cheese in half lengthwise and then in half again to create 4 lengthwise quarters.\nPlace 2 quarters end to end on each prepared lamb loin.\nRoll and truss each prepared loin.\nPreheat oven to 375F.\nIn a large saut pan, heat cooking oil over medium high heat and sear each loin for 3-4 minutes on all sides.\nRoast lamb loins in the oven for 10 -12 minutes until an internal temperature of 120F is reached.\nRemove from the oven and let rest for 10 minutes.\nRemove string and slice into  medallions.\nDivide among 2 plates and serve.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Heat 2 tbsp. olive oil in a saut pan over medium high heat.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Add the garlic and saut for 10 seconds then add the spinach and saut only until the spinach wilts.",
+          "ingredients": [
+            {
+              "id": 10011457,
+              "name": "spinach",
+              "localizedName": "spinach",
+              "image": "spinach.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "Set aside to cool.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Lay out the lamb loin and butterfly to create a flat piece about 6 inches wide.",
+          "ingredients": [
+            {
+              "id": 10017026,
+              "name": "lamb loin",
+              "localizedName": "lamb loin",
+              "image": "lamb-chops.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Season the loin with salt and pepper.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 6,
+          "step": "Squeeze the excess water from the spinach and spread evenly over the lamb loin.",
+          "ingredients": [
+            {
+              "id": 10017026,
+              "name": "lamb loin",
+              "localizedName": "lamb loin",
+              "image": "lamb-chops.png"
+            },
+            {
+              "id": 10011457,
+              "name": "spinach",
+              "localizedName": "spinach",
+              "image": "spinach.jpg"
+            },
+            {
+              "id": 0,
+              "name": "spread",
+              "localizedName": "spread",
+              "image": ""
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Split the goat cheese in half lengthwise and then in half again to create 4 lengthwise quarters.",
+          "ingredients": [
+            {
+              "id": 1159,
+              "name": "goat cheese",
+              "localizedName": "goat cheese",
+              "image": "goat-cheese.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 8,
+          "step": "Place 2 quarters end to end on each prepared lamb loin.",
+          "ingredients": [
+            {
+              "id": 10017026,
+              "name": "lamb loin",
+              "localizedName": "lamb loin",
+              "image": "lamb-chops.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 9,
+          "step": "Roll and truss each prepared loin.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "roll",
+              "localizedName": "roll",
+              "image": "dinner-yeast-rolls.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 10,
+          "step": "Preheat oven to 375F.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg",
+              "temperature": {
+                "number": 375.0,
+                "unit": "Fahrenheit"
+              }
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "step": "In a large saut pan, heat cooking oil over medium high heat and sear each loin for 3-4 minutes on all sides.",
+          "ingredients": [
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ],
+          "length": {
+            "number": 4,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 12,
+          "step": "Roast lamb loins in the oven for 10 -12 minutes until an internal temperature of 120F is reached.",
+          "ingredients": [
+            {
+              "id": 10017224,
+              "name": "lamb",
+              "localizedName": "lamb",
+              "image": "lamb-shanks.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg",
+              "temperature": {
+                "number": 120.0,
+                "unit": "Fahrenheit"
+              }
+            }
+          ],
+          "length": {
+            "number": 12,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 13,
+          "step": "Remove from the oven and let rest for 10 minutes.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 10,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 14,
+          "step": "Remove string and slice into  medallions.",
+          "ingredients": [],
+          "equipment": []
+        },
+        {
+          "number": 15,
+          "step": "Divide among 2 plates and serve.",
+          "ingredients": [],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/lamb-and-fresh-goat-cheese-roulade-649183"
+}
