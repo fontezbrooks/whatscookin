@@ -1,0 +1,496 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": true,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 22,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 100,
+  "spoonacularScore": 95.0,
+  "healthScore": 41.0,
+  "creditsText": "Afrolems",
+  "license": "CC BY 4.0",
+  "sourceName": "Afrolems",
+  "pricePerServing": 158.71,
+  "extendedIngredients": [
+    {
+      "id": 20081,
+      "aisle": "Baking",
+      "image": "flour.png",
+      "consistency": "solid",
+      "name": "all purpose flour",
+      "nameClean": "wheat flour",
+      "original": "1 cup of all purpose flour",
+      "originalName": "all purpose flour",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1002030,
+      "aisle": "Spices and Seasonings",
+      "image": "pepper.jpg",
+      "consistency": "solid",
+      "name": "black pepper",
+      "nameClean": "black pepper",
+      "original": "1 teaspoon of black pepper",
+      "originalName": "black pepper",
+      "amount": 1.0,
+      "unit": "teaspoon",
+      "meta": [
+        "black"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 18079,
+      "aisle": "Pasta and Rice",
+      "image": "breadcrumbs.jpg",
+      "consistency": "solid",
+      "name": "breadcrumbs",
+      "nameClean": "breadcrumbs",
+      "original": "2 cups of breadcrumbs",
+      "originalName": "breadcrumbs",
+      "amount": 2.0,
+      "unit": "cups",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 473.176,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 5062,
+      "aisle": "Meat",
+      "image": "chicken-breasts.png",
+      "consistency": "solid",
+      "name": "chicken breast",
+      "nameClean": "chicken breast",
+      "original": "1 cup of chopped chicken breast",
+      "originalName": "chopped chicken breast",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 2009,
+      "aisle": "Spices and Seasonings",
+      "image": "chili-powder.jpg",
+      "consistency": "solid",
+      "name": "chili powder",
+      "nameClean": "chili powder",
+      "original": "1 teaspoon of chili powder",
+      "originalName": "chili powder",
+      "amount": 1.0,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 1123,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "egg.png",
+      "consistency": "solid",
+      "name": "eggs",
+      "nameClean": "egg",
+      "original": "2 eggs",
+      "originalName": "eggs",
+      "amount": 2.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic clove",
+      "nameClean": "garlic",
+      "original": "1 garlic clove",
+      "originalName": "garlic clove",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 2021,
+      "aisle": "Spices and Seasonings",
+      "image": "ginger.png",
+      "consistency": "solid",
+      "name": "ginger powder",
+      "nameClean": "ginger powder",
+      "original": "1/4 teaspoon of ginger powder",
+      "originalName": "ginger powder",
+      "amount": 0.25,
+      "unit": "teaspoon",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 10014412,
+      "aisle": "Frozen",
+      "image": "ice-cubes.png",
+      "consistency": "solid",
+      "name": "ice cubes",
+      "nameClean": "ice",
+      "original": "2 seasoning cubes",
+      "originalName": "seasoning cubes",
+      "amount": 2.0,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 4582,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "vegetable-oil.jpg",
+      "consistency": "liquid",
+      "name": "oil",
+      "nameClean": "cooking oil",
+      "original": "Oil for deep frying",
+      "originalName": "Oil for deep frying",
+      "amount": 2.0,
+      "unit": "servings",
+      "meta": [
+        "for deep frying"
+      ],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "solid",
+      "name": "salt",
+      "nameClean": "table salt",
+      "original": "Pinch of Salt",
+      "originalName": "Pinch of Salt",
+      "amount": 1.0,
+      "unit": "pinch",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "pinch",
+          "unitLong": "pinch"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "pinch",
+          "unitLong": "pinch"
+        }
+      }
+    }
+  ],
+  "id": 716358,
+  "title": "Popcorn Chicken",
+  "readyInMinutes": 45,
+  "servings": 2,
+  "sourceUrl": "http://www.afrolems.com/2016/01/11/popcorn-chicken/",
+  "image": "https://spoonacular.com/recipeImages/716358-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "The recipe Popcorn Chicken is ready <b>in about 45 minutes</b> and is definitely a tremendous <b>dairy free</b> option for lovers of American food. This recipe serves 2 and costs $1.59 per serving. One serving contains <b>823 calories</b>, <b>43g of protein</b>, and <b>14g of fat</b>. Plenty of people made this recipe, and 100 would say it hit the spot. It works well as a reasonably priced main course. If you have eggs, salt, chili powder, and a few other ingredients on hand, you can make it. To use up the eggs you could follow this main course with the <a href=\"https://spoonacular.com/recipes/rose-levy-beranbaums-chocolate-tomato-cake-with-mystery-ganache-27408\">Rose Levy Beranbaum's Chocolate Tomato Cake with Mystery Ganache</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 96%</b>. This score is great. Try <a href=\"https://spoonacular.com/recipes/popcorn-chicken-how-to-make-kfc-style-popcorn-chicken-666002\">popcorn chicken , how to make kfc style popcorn chicken</a>, <a href=\"https://spoonacular.com/recipes/popcorn-coated-popcorn-chicken-753429\">Popcorn-Coated Popcorn Chicken</a>, and <a href=\"https://spoonacular.com/recipes/champagne-caramel-popcorn-bacon-truffle-parmesan-popcorn-837731\">Champagne Caramel Popcorn & Bacon Truffle Parmesan Popcorn</a> for similar recipes.",
+  "cuisines": [
+    "Southern"
+  ],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "dairy free"
+  ],
+  "occasions": [],
+  "instructions": "In a bowl, season the chopped chicken breast with one seasoning cube, ginger powder, black pepper, chili powder, and garlic and set aside.Whisk your eggs and set aside.Season your breadcrumbs with the seasoning cubes and divide into 2 equal portions and set aside.In a blender or food processor, pour in your chicken breast, flour, 1 portion of breadcrumbs, and egg and blend till smooth.Scrape into a bowl and mold into little balls using the extra breadcrumbs to properly coat it. The smaller the balls the better as the chicken would cook through better.In a deep fryer or a huge pot of oil on medium heat, allow to heat but not be extra hot and dunk your popcorn chicken to fry till brown.Serve hot.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "In a bowl, season the chopped chicken breast with one seasoning cube, ginger powder, black pepper, chili powder, and garlic and set aside.",
+          "ingredients": [
+            {
+              "id": 5062,
+              "name": "chicken breast",
+              "localizedName": "chicken breast",
+              "image": "chicken-breasts.png"
+            },
+            {
+              "id": 0,
+              "name": "seasoning cube",
+              "localizedName": "seasoning cube",
+              "image": "stock-cube.jpg"
+            },
+            {
+              "id": 2021,
+              "name": "ginger powder",
+              "localizedName": "ginger powder",
+              "image": "ginger.png"
+            },
+            {
+              "id": 1002030,
+              "name": "black pepper",
+              "localizedName": "black pepper",
+              "image": "pepper.jpg"
+            },
+            {
+              "id": 2009,
+              "name": "chili powder",
+              "localizedName": "chili powder",
+              "image": "chili-powder.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Whisk your eggs and set aside.Season your breadcrumbs with the seasoning cubes and divide into 2 equal portions and set aside.In a blender or food processor, pour in your chicken breast, flour, 1 portion of breadcrumbs, and egg and blend till smooth.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "seasoning cube",
+              "localizedName": "seasoning cube",
+              "image": "stock-cube.jpg"
+            },
+            {
+              "id": 5062,
+              "name": "chicken breast",
+              "localizedName": "chicken breast",
+              "image": "chicken-breasts.png"
+            },
+            {
+              "id": 18079,
+              "name": "breadcrumbs",
+              "localizedName": "breadcrumbs",
+              "image": "breadcrumbs.jpg"
+            },
+            {
+              "id": 20081,
+              "name": "all purpose flour",
+              "localizedName": "all purpose flour",
+              "image": "flour.png"
+            },
+            {
+              "id": 1123,
+              "name": "egg",
+              "localizedName": "egg",
+              "image": "egg.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404771,
+              "name": "food processor",
+              "localizedName": "food processor",
+              "image": "food-processor.png"
+            },
+            {
+              "id": 404726,
+              "name": "blender",
+              "localizedName": "blender",
+              "image": "blender.png"
+            },
+            {
+              "id": 404661,
+              "name": "whisk",
+              "localizedName": "whisk",
+              "image": "whisk.png"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Scrape into a bowl and mold into little balls using the extra breadcrumbs to properly coat it. The smaller the balls the better as the chicken would cook through better.In a deep fryer or a huge pot of oil on medium heat, allow to heat but not be extra hot and dunk your popcorn chicken to fry till brown.",
+          "ingredients": [
+            {
+              "id": 18079,
+              "name": "breadcrumbs",
+              "localizedName": "breadcrumbs",
+              "image": "breadcrumbs.jpg"
+            },
+            {
+              "id": 5006,
+              "name": "whole chicken",
+              "localizedName": "whole chicken",
+              "image": "whole-chicken.jpg"
+            },
+            {
+              "id": 19034,
+              "name": "popcorn",
+              "localizedName": "popcorn",
+              "image": "popcorn.png"
+            },
+            {
+              "id": 4582,
+              "name": "cooking oil",
+              "localizedName": "cooking oil",
+              "image": "vegetable-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404759,
+              "name": "deep fryer",
+              "localizedName": "deep fryer",
+              "image": "deep-fryer.jpg"
+            },
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            },
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "step": "Serve hot.",
+          "ingredients": [],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/popcorn-chicken-716358"
+}

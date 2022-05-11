@@ -1,0 +1,395 @@
+{
+  "vegetarian": true,
+  "vegan": true,
+  "glutenFree": true,
+  "dairyFree": true,
+  "veryHealthy": true,
+  "cheap": false,
+  "veryPopular": true,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 10,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 471,
+  "spoonacularScore": 98.0,
+  "healthScore": 61.0,
+  "pricePerServing": 106.02,
+  "extendedIngredients": [
+    {
+      "id": 16018,
+      "aisle": "Canned and Jarred",
+      "image": "black-beans.jpg",
+      "consistency": "solid",
+      "name": "canned black beans",
+      "nameClean": "canned black beans",
+      "original": "1 15-ounce can black beans, not drained",
+      "originalName": "black beans, not drained",
+      "amount": 15.0,
+      "unit": "ounce",
+      "meta": [
+        "drained",
+        "canned"
+      ],
+      "measures": {
+        "us": {
+          "amount": 15.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 425.243,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 10011693,
+      "aisle": "Canned and Jarred",
+      "image": "tomatoes-canned.png",
+      "consistency": "solid",
+      "name": "canned tomatoes",
+      "nameClean": "canned tomatoes",
+      "original": "1 10-ounce can Rotel tomatoes with diced green chilies, not drained",
+      "originalName": "Rotel tomatoes with diced green chilies, not drained",
+      "amount": 10.0,
+      "unit": "ounce",
+      "meta": [
+        "diced",
+        "with  green chilies, not drained",
+        "canned"
+      ],
+      "measures": {
+        "us": {
+          "amount": 10.0,
+          "unitShort": "oz",
+          "unitLong": "ounces"
+        },
+        "metric": {
+          "amount": 283.495,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    },
+    {
+      "id": 2009,
+      "aisle": "Spices and Seasonings",
+      "image": "chili-powder.jpg",
+      "consistency": "solid",
+      "name": "chili powder",
+      "nameClean": "chili powder",
+      "original": "2 tsp chili powder",
+      "originalName": "chili powder",
+      "amount": 2.0,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 1002014,
+      "aisle": "Spices and Seasonings",
+      "image": "ground-cumin.jpg",
+      "consistency": "solid",
+      "name": "cumin",
+      "nameClean": "cumin",
+      "original": "1/2 tsp cumin",
+      "originalName": "cumin",
+      "amount": 0.5,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 1002030,
+      "aisle": "Spices and Seasonings",
+      "image": "pepper.jpg",
+      "consistency": "solid",
+      "name": "ground pepper",
+      "nameClean": "black pepper",
+      "original": "1/4 tsp ground black pepper",
+      "originalName": "ground black pepper",
+      "amount": 0.25,
+      "unit": "tsp",
+      "meta": [
+        "black"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.25,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 6168,
+      "aisle": "Condiments",
+      "image": "hot-sauce-or-tabasco.png",
+      "consistency": "liquid",
+      "name": "hot sauce",
+      "nameClean": "hot sauce",
+      "original": "optional: 4-5 dashes of hot sauce",
+      "originalName": "optional: of hot sauce",
+      "amount": 4.0,
+      "unit": "dashes",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 4.0,
+          "unitShort": "dashes",
+          "unitLong": "dashes"
+        },
+        "metric": {
+          "amount": 4.0,
+          "unitShort": "dashes",
+          "unitLong": "dashes"
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "1 tsp olive oil",
+      "originalName": "olive oil",
+      "amount": 1.0,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "solid",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1/4 cup onion, chopped",
+      "originalName": "onion, chopped",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 59.147,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 20444,
+      "aisle": "Pasta and Rice",
+      "image": "uncooked-white-rice.png",
+      "consistency": "solid",
+      "name": "rice",
+      "nameClean": "rice",
+      "original": "1/2 cup uncooked rice",
+      "originalName": "uncooked rice",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "uncooked"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 14412,
+      "aisle": "Beverages",
+      "image": "water.png",
+      "consistency": "liquid",
+      "name": "water",
+      "nameClean": "water",
+      "original": "3 Tbsp water",
+      "originalName": "water",
+      "amount": 3.0,
+      "unit": "Tbsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    }
+  ],
+  "id": 716627,
+  "title": "Easy Homemade Rice and Beans",
+  "readyInMinutes": 35,
+  "servings": 2,
+  "sourceUrl": "http://cooking2perfection.blogspot.com/2012/11/easy-homemade-rice-and-beans.html",
+  "image": "https://spoonacular.com/recipeImages/716627-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Need a <b>gluten free and vegan main course</b>? Easy Homemade Rice and Beans could be a great recipe to try. One serving contains <b>446 calories</b>, <b>19g of protein</b>, and <b>4g of fat</b>. For <b>$1.06 per serving</b>, this recipe <b>covers 26%</b> of your daily requirements of vitamins and minerals. 471 person have made this recipe and would make it again. A mixture of olive oil, ground pepper, onion, and a handful of other ingredients are all it takes to make this recipe so yummy. To use up the olive oil you could follow this main course with the <a href=\"https://spoonacular.com/recipes/sauteed-banana-granola-and-yogurt-parfait-624619\">Sauteed Banana, Granolan and Yogurt Parfait</a> as a dessert. From preparation to the plate, this recipe takes approximately <b>35 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 99%</b>. This score is awesome. Try <a href=\"https://spoonacular.com/recipes/easy-homemade-refried-beans-619117\">Easy homemade refried beans</a>, <a href=\"https://spoonacular.com/recipes/homemade-southern-red-beans-and-rice-243655\">Homemade Southern Red Beans and Rice</a>, and <a href=\"https://spoonacular.com/recipes/skillet-chicken-with-homemade-rice-a-roni-and-green-beans-201454\">Skillet Chicken with Homemade Rice-A-Roni and Green Beans</a> for similar recipes.",
+  "cuisines": [],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "dairy free",
+    "lacto ovo vegetarian",
+    "vegan"
+  ],
+  "occasions": [],
+  "instructions": "<p>Heat the olive oil in a large pot over medium heat. Add onions and saute until soft, or for about 5 minutes. Add all other remaining ingredients and stir together. Increase the heat to medium high and bring to a boil. Cover and reduce heat to medium low so that the mixture simmers. Cook for 15-20 minutes, or until rice is fluffy and liquid is absorbed.* Serve with salsa, cheese, and sour cream.</p>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Heat the olive oil in a large pot over medium heat.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404752,
+              "name": "pot",
+              "localizedName": "pot",
+              "image": "stock-pot.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Add onions and saute until soft, or for about 5 minutes.",
+          "ingredients": [
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 5,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 3,
+          "step": "Add all other remaining ingredients and stir together. Increase the heat to medium high and bring to a boil. Cover and reduce heat to medium low so that the mixture simmers. Cook for 15-20 minutes, or until rice is fluffy and liquid is absorbed.*",
+          "ingredients": [
+            {
+              "id": 20444,
+              "name": "rice",
+              "localizedName": "rice",
+              "image": "uncooked-white-rice.png"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 20,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Serve with salsa, cheese, and sour cream.",
+          "ingredients": [
+            {
+              "id": 1056,
+              "name": "sour cream",
+              "localizedName": "sour cream",
+              "image": "sour-cream.jpg"
+            },
+            {
+              "id": 1041009,
+              "name": "cheese",
+              "localizedName": "cheese",
+              "image": "cheddar-cheese.png"
+            },
+            {
+              "id": 6164,
+              "name": "salsa",
+              "localizedName": "salsa",
+              "image": "salsa.png"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/easy-homemade-rice-and-beans-716627"
+}

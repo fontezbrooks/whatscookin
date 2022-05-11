@@ -1,0 +1,697 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 27,
+  "gaps": "no",
+  "lowFodmap": false,
+  "aggregateLikes": 6,
+  "spoonacularScore": 71.0,
+  "healthScore": 24.0,
+  "pricePerServing": 182.04,
+  "extendedIngredients": [
+    {
+      "id": 1012,
+      "aisle": "Cheese",
+      "image": "cottage-cheese.jpg",
+      "consistency": "solid",
+      "name": "cottage cheese",
+      "nameClean": "cottage cheese",
+      "original": "1 cup cottage cheese",
+      "originalName": "cottage cheese",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1033,
+      "aisle": "Cheese",
+      "image": "parmesan.jpg",
+      "consistency": "solid",
+      "name": "parmesan cheese",
+      "nameClean": "parmesan",
+      "original": "½ cup Parmesan cheese",
+      "originalName": "Parmesan cheese",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 11935,
+      "aisle": "Condiments",
+      "image": "ketchup.png",
+      "consistency": "liquid",
+      "name": "ketchup",
+      "nameClean": "ketchup",
+      "original": "½ cup ketchup",
+      "originalName": "ketchup",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 19334,
+      "aisle": "Baking",
+      "image": "dark-brown-sugar.png",
+      "consistency": "solid",
+      "name": "brown sugar",
+      "nameClean": "golden brown sugar",
+      "original": "1 tsp. brown sugar",
+      "originalName": "brown sugar",
+      "amount": 1.0,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 11979,
+      "aisle": "Canned and Jarred;Produce;Ethnic Foods",
+      "image": "jalapeno-pepper.png",
+      "consistency": "solid",
+      "name": "jalapeno",
+      "nameClean": "jalapeno pepper",
+      "original": "½ jalapeño",
+      "originalName": "jalapeño",
+      "amount": 0.5,
+      "unit": "",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 11297,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "parsley.jpg",
+      "consistency": "solid",
+      "name": "parsley",
+      "nameClean": "parsley",
+      "original": "½ cup Italian parsley",
+      "originalName": "Italian parsley",
+      "amount": 0.5,
+      "unit": "cup",
+      "meta": [
+        "italian"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 118.294,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1077,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "milk.png",
+      "consistency": "liquid",
+      "name": "milk",
+      "nameClean": "milk",
+      "original": "1¼ cup milk",
+      "originalName": "milk",
+      "amount": 1.25,
+      "unit": "cup",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 1.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 295.735,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "solid",
+      "name": "garlic",
+      "nameClean": "garlic",
+      "original": "3 cloves garlic",
+      "originalName": "garlic",
+      "amount": 3.0,
+      "unit": "cloves",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 3.0,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        },
+        "metric": {
+          "amount": 3.0,
+          "unitShort": "cloves",
+          "unitLong": "cloves"
+        }
+      }
+    },
+    {
+      "id": 11282,
+      "aisle": "Produce",
+      "image": "brown-onion.png",
+      "consistency": "solid",
+      "name": "onion",
+      "nameClean": "onion",
+      "original": "1 onion – diced",
+      "originalName": "onion – diced",
+      "amount": 1.0,
+      "unit": "",
+      "meta": [
+        "diced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 1.0,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 1002014,
+      "aisle": "Spices and Seasonings",
+      "image": "ground-cumin.jpg",
+      "consistency": "solid",
+      "name": "ground cumin",
+      "nameClean": "cumin",
+      "original": "¾ tsp. ground cumin",
+      "originalName": "ground cumin",
+      "amount": 0.75,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.75,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.75,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 2047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt.jpg",
+      "consistency": "solid",
+      "name": "salt",
+      "nameClean": "table salt",
+      "original": "½ tsp. salt",
+      "originalName": "salt",
+      "amount": 0.5,
+      "unit": "tsp",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 1002030,
+      "aisle": "Spices and Seasonings",
+      "image": "pepper.jpg",
+      "consistency": "solid",
+      "name": "black pepper",
+      "nameClean": "black pepper",
+      "original": "½ tsp. black pepper",
+      "originalName": "black pepper",
+      "amount": 0.5,
+      "unit": "tsp",
+      "meta": [
+        "black"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "tsps",
+          "unitLong": "teaspoons"
+        }
+      }
+    },
+    {
+      "id": 1001,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "butter-sliced.jpg",
+      "consistency": "solid",
+      "name": "butter",
+      "nameClean": "butter",
+      "original": "2-3 Tbs. butter",
+      "originalName": "butter",
+      "amount": 2.0,
+      "unit": "Tbs",
+      "meta": [],
+      "measures": {
+        "us": {
+          "amount": 2.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tbs"
+        },
+        "metric": {
+          "amount": 2.0,
+          "unitShort": "Tbs",
+          "unitLong": "Tbs"
+        }
+      }
+    },
+    {
+      "id": 1009,
+      "aisle": "Cheese",
+      "image": "cheddar-cheese.png",
+      "consistency": "solid",
+      "name": "cheddar cheese",
+      "nameClean": "cheddar cheese",
+      "original": "1 cup cheddar cheese shredded or your favorite",
+      "originalName": "cheddar cheese shredded or your favorite",
+      "amount": 1.0,
+      "unit": "cup",
+      "meta": [
+        "shredded",
+        "your favorite"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "cup",
+          "unitLong": "cup"
+        },
+        "metric": {
+          "amount": 236.588,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 18079,
+      "aisle": "Pasta and Rice",
+      "image": "breadcrumbs.jpg",
+      "consistency": "solid",
+      "name": "breadcrumbs",
+      "nameClean": "breadcrumbs",
+      "original": "¼ cup Italian style breadcrumbs or homemade breadcrumbs",
+      "originalName": "Italian style breadcrumbs or homemade breadcrumbs",
+      "amount": 0.25,
+      "unit": "cup",
+      "meta": [
+        "italian",
+        "homemade"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.25,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 59.147,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 20499,
+      "aisle": "Pasta and Rice",
+      "image": "macaroni.png",
+      "consistency": "solid",
+      "name": "macaroni",
+      "nameClean": "short pasta",
+      "original": "1 lb. of your favorite macaroni",
+      "originalName": "your favorite macaroni",
+      "amount": 1.0,
+      "unit": "lb",
+      "meta": [
+        "your favorite"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.0,
+          "unitShort": "lb",
+          "unitLong": "pound"
+        },
+        "metric": {
+          "amount": 453.592,
+          "unitShort": "g",
+          "unitLong": "grams"
+        }
+      }
+    }
+  ],
+  "id": 634496,
+  "title": "BBQ Mac and Cheese",
+  "readyInMinutes": 45,
+  "servings": 4,
+  "sourceUrl": "https://www.foodista.com/recipe/FNMKDX42/bbq-mac-and-cheese",
+  "image": "https://spoonacular.com/recipeImages/634496-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "BBQ Mac and Cheese might be just the main course you are searching for. This recipe serves 4. One serving contains <b>815 calories</b>, <b>37g of protein</b>, and <b>25g of fat</b>. For <b>$1.82 per serving</b>, this recipe <b>covers 31%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 6 fans. If you have cheddar cheese or, garlic, brown sugar, and a few other ingredients on hand, you can make it. This recipe is typical of American cuisine. From preparation to the plate, this recipe takes about <b>about 45 minutes</b>. Taking all factors into account, this recipe <b>earns a spoonacular score of 70%</b>, which is solid. <a href=\"https://spoonacular.com/recipes/creamy-blue-cheese-and-bbq-chicken-mac-and-cheese-617673\">Creamy Blue Cheese and BBQ Chicken Mac and Cheese</a>, <a href=\"https://spoonacular.com/recipes/bbq-chicken-mac-cheese-608502\">BBQ Chicken Mac & Cheese</a>, and <a href=\"https://spoonacular.com/recipes/bbq-chicken-mac-and-cheese-629545\">BBQ Chicken Mac and Cheese</a> are very similar to this recipe.",
+  "cuisines": [
+    "American"
+  ],
+  "dishTypes": [
+    "side dish",
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [],
+  "occasions": [],
+  "instructions": "Prepare the macaroni as directed.\nCombine in a food processor the cottage cheese, milk, Parmesan cheese, ketchup, brown sugar, jalapeo, garlic, parsley and seasonings.\nHeat a frying pan with butter and saut the onions until softened and transparent.\nHeat another frying pan with a pat of butter; add the bread crumbs; toss and brown a bit.\nPreheat Oven 325 degrees:\nButter a baking dish.  Add the macaroni, the mixture from the food processor, the shredded cheese, the onions and toss.\nTop with the bread crumbs a few pats of butter and grated Parmesan cheese and a little shredded cheese.\nBake 25  30 minutes; until slightly golden.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Prepare the macaroni as directed.",
+          "ingredients": [
+            {
+              "id": 20499,
+              "name": "macaroni",
+              "localizedName": "macaroni",
+              "image": "macaroni.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 2,
+          "step": "Combine in a food processor the cottage cheese, milk, Parmesan cheese, ketchup, brown sugar, jalapeo, garlic, parsley and seasonings.",
+          "ingredients": [
+            {
+              "id": 1033,
+              "name": "parmesan",
+              "localizedName": "parmesan",
+              "image": "parmesan.jpg"
+            },
+            {
+              "id": 1012,
+              "name": "cottage cheese",
+              "localizedName": "cottage cheese",
+              "image": "cottage-cheese.jpg"
+            },
+            {
+              "id": 19334,
+              "name": "brown sugar",
+              "localizedName": "brown sugar",
+              "image": "dark-brown-sugar.png"
+            },
+            {
+              "id": 1042027,
+              "name": "seasoning",
+              "localizedName": "seasoning",
+              "image": "seasoning.png"
+            },
+            {
+              "id": 11935,
+              "name": "ketchup",
+              "localizedName": "ketchup",
+              "image": "ketchup.png"
+            },
+            {
+              "id": 11297,
+              "name": "parsley",
+              "localizedName": "parsley",
+              "image": "parsley.jpg"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 1077,
+              "name": "milk",
+              "localizedName": "milk",
+              "image": "milk.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404771,
+              "name": "food processor",
+              "localizedName": "food processor",
+              "image": "food-processor.png"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Heat a frying pan with butter and saut the onions until softened and transparent.",
+          "ingredients": [
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            },
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "step": "Heat another frying pan with a pat of butter; add the bread crumbs; toss and brown a bit.",
+          "ingredients": [
+            {
+              "id": 18079,
+              "name": "breadcrumbs",
+              "localizedName": "breadcrumbs",
+              "image": "breadcrumbs.jpg"
+            },
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Preheat Oven 325 degrees",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Butter a baking dish.",
+          "ingredients": [
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404646,
+              "name": "baking pan",
+              "localizedName": "baking pan",
+              "image": "roasting-pan.jpg"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Add the macaroni, the mixture from the food processor, the shredded cheese, the onions and toss.",
+          "ingredients": [
+            {
+              "id": 1011026,
+              "name": "shredded cheese",
+              "localizedName": "shredded cheese",
+              "image": "cheddar-cheese.png"
+            },
+            {
+              "id": 20499,
+              "name": "macaroni",
+              "localizedName": "macaroni",
+              "image": "macaroni.png"
+            },
+            {
+              "id": 11282,
+              "name": "onion",
+              "localizedName": "onion",
+              "image": "brown-onion.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404771,
+              "name": "food processor",
+              "localizedName": "food processor",
+              "image": "food-processor.png"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Top with the bread crumbs a few pats of butter and grated Parmesan cheese and a little shredded cheese.",
+          "ingredients": [
+            {
+              "id": 1032,
+              "name": "grated parmesan cheese",
+              "localizedName": "grated parmesan cheese",
+              "image": "parmesan.jpg"
+            },
+            {
+              "id": 1011026,
+              "name": "shredded cheese",
+              "localizedName": "shredded cheese",
+              "image": "cheddar-cheese.png"
+            },
+            {
+              "id": 18079,
+              "name": "breadcrumbs",
+              "localizedName": "breadcrumbs",
+              "image": "breadcrumbs.jpg"
+            },
+            {
+              "id": 1001,
+              "name": "butter",
+              "localizedName": "butter",
+              "image": "butter-sliced.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 4,
+          "step": "Bake 25  30 minutes; until slightly golden.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 30,
+            "unit": "minutes"
+          }
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/bbq-mac-and-cheese-634496"
+}
